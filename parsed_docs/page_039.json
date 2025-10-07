@@ -1,0 +1,93 @@
+{
+  "markdown": "5. QUY ĐỊNH VỀ SỬ DỤNG EMAIL CÔNG TY <!-- text, from page 0 (l=0.031,t=0.034,r=0.438,b=0.089), with ID 7c60e7fa-7e14-4609-950b-7b40235b27ef -->\n\nSummary : This image is a logo for a company named \"Icetea Software\", featuring a stylized red geometric symbol above the company name.\n\nlogo: Icetea Software\n\nLogo Elements : \n  • Stylized red geometric symbol resembling interlocking \"S\" shapes or a maze, centered above the text.\n  • Two small red diamond shapes, one on each side of the main symbol.\n  • Company name \"Icetea Software\" written below the symbol; \"Icetea\" in a light gray font, \"Software\" in bold black font.\n  • All elements are centered on a white background.\n\nTypography & Colour : \n  • \"Icetea\" uses a thin, sans-serif, light gray font.\n  • \"Software\" uses a bold, sans-serif, black font.\n  • Red (#C1272D or similar) is used for the symbol and diamonds.\n\nDimensions & Placement : \n  • The geometric symbol is approximately square and larger than the text.\n  • The text is horizontally aligned and centered below the symbol.\n\nAnalysis : \n  • The logo uses a modern, minimalist design with a strong geometric motif, likely to convey a sense of structure, innovation, and reliability. The colour contrast between the red symbol and the black/gray text draws attention to both the brand mark and the company name. <!-- figure, from page 0 (l=0.895,t=0.000,r=0.968,b=0.093), with ID 73b91da5-db28-4cd9-b871-4d5e761a1bbf -->\n\n- Mục đích quy định\n- Đảm bảo **an toàn thông tin** trong hoạt động trao đổi qua email\n- Bảo vệ **tài sản thông tin** của Công ty\n- Giảm thiểu rủi ro rò rỉ, mất mát hoặc bị khai thác trái phép <!-- text, from page 0 (l=0.017,t=0.121,r=0.513,b=0.325), with ID 5317cd9b-0615-405e-82d3-40e22559b004 -->\n\n- Giảm thiểu rủi ro rò rỉ, mất mát hoặc bị khai thác trái phép\n(* Người gửi không quen, Nội dung bất thường, File hoặc link lạ, Tính cấp bách cao,...)\n<table><thead><tr><th>Email công ty</th><th>Tài khoản thông tin</th><th>Quy tắc gửi email</th><th>Các hành vi cấm khi sử dụng Email</th><th>Đăng ký không hợp lệ</th><th>Cẩn trọng email là (*)</th><th>Bảo vệ tài khoản email</th></tr></thead><tbody><tr><td>Chỉ sử dụng email do Công ty cấp hoặc email khách hàng cấp cho công việc<br>• Cấm sử dụng email cá nhân hoặc email hệ thống không được phép tại Công ty</td><td>• Tất cả thông tin gửi/nhận qua email Công ty đều là tài sản thông tin của Công ty<br>• Phải bảo mật và sử dụng đúng mục đích</td><td>• Kiểm tra kỹ: TO, CC, BCC, tiêu đề, nội dung và tệp đính kèm<br>• File đính kèm phải: Mã hóa/đặt mật khẩu; Không gửi mật khẩu trong cùng Email</td><td>• Email test<br>• Sử dụng email người khác<br>• Giả mạo, bẻ khóa, xâm nhập, tấn công<br>• Gửi email xúc phạm, công kích, phản cảm, vi phạm luật pháp<br>• Gửi thư rác</td><td>• Không sử dụng email Công ty để đăng ký vào diễn đàn mạng xã hội, dịch vụ không phục vụ công việc</td><td>• Không mở email từ địa chỉ lạ<br>• Xóa ngay lập tức nếu nghi ngờ là email giả mạo hoặc có hại</td><td>• Mật khẩu ít nhất 8 ký tự gồm chữ hoa, thường, số, ký tự đặc biệt<br>• Thay đổi định kỳ: Ít nhất mỗi 90 ngày<br>• Không chia sẻ mật khẩu, bảo mật tuyệt đối</td></tr></tbody></table> <!-- table, from page 0 (l=0.015,t=0.288,r=0.987,b=0.967), with ID f14933de-d225-4a90-bd32-70f9eaf0c4e2 -->",
+  "chunks": [
+    {
+      "text": "5. QUY ĐỊNH VỀ SỬ DỤNG EMAIL CÔNG TY",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.031259700655937195,
+            "t": 0.03351764380931854,
+            "r": 0.4380163550376892,
+            "b": 0.08894067257642746
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7c60e7fa-7e14-4609-950b-7b40235b27ef"
+    },
+    {
+      "text": "Summary : This image is a logo for a company named \"Icetea Software\", featuring a stylized red geometric symbol above the company name.\n\nlogo: Icetea Software\n\nLogo Elements : \n  • Stylized red geometric symbol resembling interlocking \"S\" shapes or a maze, centered above the text.\n  • Two small red diamond shapes, one on each side of the main symbol.\n  • Company name \"Icetea Software\" written below the symbol; \"Icetea\" in a light gray font, \"Software\" in bold black font.\n  • All elements are centered on a white background.\n\nTypography & Colour : \n  • \"Icetea\" uses a thin, sans-serif, light gray font.\n  • \"Software\" uses a bold, sans-serif, black font.\n  • Red (#C1272D or similar) is used for the symbol and diamonds.\n\nDimensions & Placement : \n  • The geometric symbol is approximately square and larger than the text.\n  • The text is horizontally aligned and centered below the symbol.\n\nAnalysis : \n  • The logo uses a modern, minimalist design with a strong geometric motif, likely to convey a sense of structure, innovation, and reliability. The colour contrast between the red symbol and the black/gray text draws attention to both the brand mark and the company name.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.8945256471633911,
+            "t": 0.0001327916979789734,
+            "r": 0.9681124687194824,
+            "b": 0.09321291744709015
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "73b91da5-db28-4cd9-b871-4d5e761a1bbf"
+    },
+    {
+      "text": "- Mục đích quy định\n- Đảm bảo **an toàn thông tin** trong hoạt động trao đổi qua email\n- Bảo vệ **tài sản thông tin** của Công ty\n- Giảm thiểu rủi ro rò rỉ, mất mát hoặc bị khai thác trái phép",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.016533955931663513,
+            "t": 0.12085330486297607,
+            "r": 0.5129566192626953,
+            "b": 0.3248085677623749
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5317cd9b-0615-405e-82d3-40e22559b004"
+    },
+    {
+      "text": "- Giảm thiểu rủi ro rò rỉ, mất mát hoặc bị khai thác trái phép\n(* Người gửi không quen, Nội dung bất thường, File hoặc link lạ, Tính cấp bách cao,...)\n<table><thead><tr><th>Email công ty</th><th>Tài khoản thông tin</th><th>Quy tắc gửi email</th><th>Các hành vi cấm khi sử dụng Email</th><th>Đăng ký không hợp lệ</th><th>Cẩn trọng email là (*)</th><th>Bảo vệ tài khoản email</th></tr></thead><tbody><tr><td>Chỉ sử dụng email do Công ty cấp hoặc email khách hàng cấp cho công việc<br>• Cấm sử dụng email cá nhân hoặc email hệ thống không được phép tại Công ty</td><td>• Tất cả thông tin gửi/nhận qua email Công ty đều là tài sản thông tin của Công ty<br>• Phải bảo mật và sử dụng đúng mục đích</td><td>• Kiểm tra kỹ: TO, CC, BCC, tiêu đề, nội dung và tệp đính kèm<br>• File đính kèm phải: Mã hóa/đặt mật khẩu; Không gửi mật khẩu trong cùng Email</td><td>• Email test<br>• Sử dụng email người khác<br>• Giả mạo, bẻ khóa, xâm nhập, tấn công<br>• Gửi email xúc phạm, công kích, phản cảm, vi phạm luật pháp<br>• Gửi thư rác</td><td>• Không sử dụng email Công ty để đăng ký vào diễn đàn mạng xã hội, dịch vụ không phục vụ công việc</td><td>• Không mở email từ địa chỉ lạ<br>• Xóa ngay lập tức nếu nghi ngờ là email giả mạo hoặc có hại</td><td>• Mật khẩu ít nhất 8 ký tự gồm chữ hoa, thường, số, ký tự đặc biệt<br>• Thay đổi định kỳ: Ít nhất mỗi 90 ngày<br>• Không chia sẻ mật khẩu, bảo mật tuyệt đối</td></tr></tbody></table>",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.015281856060028076,
+            "t": 0.2876150906085968,
+            "r": 0.9869653582572937,
+            "b": 0.9665805101394653
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "table",
+      "chunk_id": "f14933de-d225-4a90-bd32-70f9eaf0c4e2"
+    }
+  ],
+  "extraction": null,
+  "extraction_metadata": null,
+  "start_page_idx": 0,
+  "end_page_idx": 0,
+  "doc_type": "image",
+  "result_path": null,
+  "errors": [],
+  "extraction_error": null,
+  "metadata": {
+    "parse_id": "srp1j4whex10vizvq4kuan6n3",
+    "filename": "page_039.png",
+    "page_count": 1,
+    "processed_at": "2025-10-07T07:46:36.185770+00:00",
+    "processing_time_ms": 20996,
+    "pages_processed": 1,
+    "user_id": "jp03ndqeerfn",
+    "pages_rotation_angles": {
+      "0": 0.0
+    }
+  }
+}

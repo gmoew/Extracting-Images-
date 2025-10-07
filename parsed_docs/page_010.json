@@ -1,0 +1,178 @@
+{
+  "markdown": "# Case studies 1 - Ransomware <!-- text, from page 0 (l=0.038,t=0.027,r=0.428,b=0.091), with ID 06b9dbf5-cf5d-4f67-9811-b6d41144beb8 -->\n\nSummary : This image is a logo for a company named \"Icetea Software\", featuring a stylized red geometric symbol above the company name in two different font weights.\n\nlogo: Icetea Software\n\nDesign Elements :\n  • Central geometric symbol composed of interlocking red lines forming a diamond shape, with two smaller red diamonds flanking the main symbol horizontally.\n  • Company name \"Icetea Software\" is written below the symbol; \"Icetea\" in a thin, light font, and \"Software\" in bold black font.\n  • All elements are centered on a white background.\n\nText & Typography :\n  • \"Icetea\" uses a light, sans-serif font.\n  • \"Software\" uses a bold, sans-serif font for emphasis.\n\nDimensions & Placement :\n  • The geometric symbol is placed above the company name, occupying roughly the top half of the logo.\n  • The text is horizontally aligned and centered beneath the symbol.\n\nAnalysis :\n  • The logo uses red to convey energy and attention, while the bold \"Software\" highlights the company's core business.\n  • The geometric symbol may suggest connectivity, structure, or innovation, aligning with software industry themes. <!-- figure, from page 0 (l=0.894,t=0.000,r=0.969,b=0.093), with ID ae9b5e61-4ddf-445c-a2e5-8c3f4fd72a3f -->\n\n**Ransomware** là một loại phần mềm độc hại (malware) mà kẻ tấn công sử dụng để mã hóa dữ liệu của bạn, hoặc khóa máy tính của bạn, và yêu cầu bạn trả tiền chuộc (ransom) để có thể truy cập lại được dữ liệu hoặc hệ thống của mình. Nói cách khác, ransomware là một hình thức tống tiền trên không gian mạng, trong đó tội phạm mạng sử dụng công nghệ để tống tiền nạn nhân. <!-- text, from page 0 (l=0.043,t=0.125,r=0.976,b=0.320), with ID ebb3f77d-b706-4caf-b1f5-0aa71d53b494 -->\n\nlogo: circular gold border with two people (an adult and a child) inside, text \"35\" and some illegible small text at the bottom\n\nDương Thanh Hải\n\n12 Tháng 3, 2020 · 👥 <!-- text, from page 0 (l=0.057,t=0.409,r=0.319,b=0.534), with ID 46675aaf-0add-4bd9-ac13-9fa07dbc8e15 -->\n\n… <!-- marginalia, from page 0 (l=0.918,t=0.455,r=0.950,b=0.482), with ID 1aa5b154-1f6e-41a5-bf77-accded8a6428 -->\n\n\"It's not safe to stay home!\"\nMột dòng cảnh báo của một loại mã độc tống tiền (Ransomware) trong thời dịch Corona. <!-- text, from page 0 (l=0.057,t=0.543,r=0.909,b=0.647), with ID 4ec1f3f8-1e9d-48e4-819c-e491876dc15a -->\n\nTrong thời đại công nghệ phát triển như hiện tại thì ở nhà cũng dễ dàng bị lừa đảo trực tuyến hoặc nhiễm các loại Virus máy tính. <!-- text, from page 0 (l=0.059,t=0.655,r=0.938,b=0.759), with ID 4f0f3cd3-d3d9-4e6c-8a30-ddf26f2843d0 -->\n\nCùng cập nhật vài cách lừa đảo trực tuyến đơn giản nhưng ... không thiếu trường hợp người dùng bị lừa. <!-- text, from page 0 (l=0.058,t=0.768,r=0.931,b=0.876), with ID 59e8d757-9aa2-469c-b976-93198f7b7a2b -->\n\n10 <!-- marginalia, from page 0 (l=0.908,t=0.940,r=0.927,b=0.968), with ID 340efd41-12a3-4b2d-ac8c-631d04c7885f -->",
+  "chunks": [
+    {
+      "text": "# Case studies 1 - Ransomware",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.03763793408870697,
+            "t": 0.026930954307317734,
+            "r": 0.4284939169883728,
+            "b": 0.09074272215366364
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "06b9dbf5-cf5d-4f67-9811-b6d41144beb8"
+    },
+    {
+      "text": "Summary : This image is a logo for a company named \"Icetea Software\", featuring a stylized red geometric symbol above the company name in two different font weights.\n\nlogo: Icetea Software\n\nDesign Elements :\n  • Central geometric symbol composed of interlocking red lines forming a diamond shape, with two smaller red diamonds flanking the main symbol horizontally.\n  • Company name \"Icetea Software\" is written below the symbol; \"Icetea\" in a thin, light font, and \"Software\" in bold black font.\n  • All elements are centered on a white background.\n\nText & Typography :\n  • \"Icetea\" uses a light, sans-serif font.\n  • \"Software\" uses a bold, sans-serif font for emphasis.\n\nDimensions & Placement :\n  • The geometric symbol is placed above the company name, occupying roughly the top half of the logo.\n  • The text is horizontally aligned and centered beneath the symbol.\n\nAnalysis :\n  • The logo uses red to convey energy and attention, while the bold \"Software\" highlights the company's core business.\n  • The geometric symbol may suggest connectivity, structure, or innovation, aligning with software industry themes.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.8937137722969055,
+            "t": 0.0001499764621257782,
+            "r": 0.9686508774757385,
+            "b": 0.09320691227912903
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "ae9b5e61-4ddf-445c-a2e5-8c3f4fd72a3f"
+    },
+    {
+      "text": "**Ransomware** là một loại phần mềm độc hại (malware) mà kẻ tấn công sử dụng để mã hóa dữ liệu của bạn, hoặc khóa máy tính của bạn, và yêu cầu bạn trả tiền chuộc (ransom) để có thể truy cập lại được dữ liệu hoặc hệ thống của mình. Nói cách khác, ransomware là một hình thức tống tiền trên không gian mạng, trong đó tội phạm mạng sử dụng công nghệ để tống tiền nạn nhân.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.04293704032897949,
+            "t": 0.12519285082817078,
+            "r": 0.975831151008606,
+            "b": 0.3200955390930176
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ebb3f77d-b706-4caf-b1f5-0aa71d53b494"
+    },
+    {
+      "text": "logo: circular gold border with two people (an adult and a child) inside, text \"35\" and some illegible small text at the bottom\n\nDương Thanh Hải\n\n12 Tháng 3, 2020 · 👥",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.05701802670955658,
+            "t": 0.40938618779182434,
+            "r": 0.31877046823501587,
+            "b": 0.5336127877235413
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "46675aaf-0add-4bd9-ac13-9fa07dbc8e15"
+    },
+    {
+      "text": "…",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.9178169369697571,
+            "t": 0.4550192058086395,
+            "r": 0.9495788216590881,
+            "b": 0.48153045773506165
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "1aa5b154-1f6e-41a5-bf77-accded8a6428"
+    },
+    {
+      "text": "\"It's not safe to stay home!\"\nMột dòng cảnh báo của một loại mã độc tống tiền (Ransomware) trong thời dịch Corona.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.056981176137924194,
+            "t": 0.5427013039588928,
+            "r": 0.9088703393936157,
+            "b": 0.6474029421806335
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "4ec1f3f8-1e9d-48e4-819c-e491876dc15a"
+    },
+    {
+      "text": "Trong thời đại công nghệ phát triển như hiện tại thì ở nhà cũng dễ dàng bị lừa đảo trực tuyến hoặc nhiễm các loại Virus máy tính.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.05935388803482056,
+            "t": 0.6551911234855652,
+            "r": 0.9384689927101135,
+            "b": 0.7590429186820984
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "4f0f3cd3-d3d9-4e6c-8a30-ddf26f2843d0"
+    },
+    {
+      "text": "Cùng cập nhật vài cách lừa đảo trực tuyến đơn giản nhưng ... không thiếu trường hợp người dùng bị lừa.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.057940781116485596,
+            "t": 0.7680451273918152,
+            "r": 0.9312291145324707,
+            "b": 0.8755699992179871
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "59e8d757-9aa2-469c-b976-93198f7b7a2b"
+    },
+    {
+      "text": "10",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.9076307415962219,
+            "t": 0.9403606057167053,
+            "r": 0.9270216822624207,
+            "b": 0.9682428240776062
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "340efd41-12a3-4b2d-ac8c-631d04c7885f"
+    }
+  ],
+  "extraction": null,
+  "extraction_metadata": null,
+  "start_page_idx": 0,
+  "end_page_idx": 0,
+  "doc_type": "image",
+  "result_path": null,
+  "errors": [],
+  "extraction_error": null,
+  "metadata": {
+    "parse_id": "cxvreit60kkdi64oms77mzoqs",
+    "filename": "page_010.png",
+    "page_count": 1,
+    "processed_at": "2025-10-07T07:42:04.915990+00:00",
+    "processing_time_ms": 4040,
+    "pages_processed": 1,
+    "user_id": "jp03ndqeerfn",
+    "pages_rotation_angles": {
+      "0": 0.0
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "markdown": "7. QUY ĐỊNH VỀ SỬ DỤNG MÁY IN, MÁY HỦY GIẤY, TÀI LIỆU BẢN CỨNG – QUY ĐỊNH RA VÀO CÔNG TY <!-- text, from page 0 (l=0.035,t=0.000,r=0.722,b=0.090), with ID fd667052-bcaa-4f1f-a5ff-822dbe41d9ea -->\n\nSummary : This image is a logo for a company named \"Icetea Software\", featuring a stylized red geometric symbol above the company name.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • The logo consists of a red geometric symbol resembling two interlocking \"S\" shapes or a stylized maze, formed by thick red lines.\n  • Two small red diamond shapes are positioned symmetrically on either side of the central symbol.\n  • The company name \"Icetea Software\" appears below the symbol, with \"Icetea\" in a thin, gray sans-serif font and \"Software\" in a bold, black sans-serif font.\n\nDimensions & Placement :\n  • The geometric symbol is centered above the text.\n  • The text is horizontally aligned, with \"Icetea\" and \"Software\" on the same line.\n  • The overall layout is vertically stacked: symbol on top, text below.\n\nAnalysis :\n  • The use of red and bold geometric lines in the symbol suggests a modern, dynamic brand identity.\n  • The contrast between the thin \"Icetea\" and bold \"Software\" highlights the software aspect of the company name. <!-- figure, from page 0 (l=0.894,t=0.000,r=0.969,b=0.093), with ID 4de1765d-26fc-4bf2-9bf1-dd1753ab5717 -->\n\n## Hủy tài liệu an toàn\n\n**Phải dùng máy hủy giấy** để hủy tài liệu có thông tin nhạy cảm: Hợp đồng, Bảng lương, hồ sơ dự án, báo cáo tài chính, Hồ sơ khách hàng, dự thầu, doanh thu... <!-- text, from page 0 (l=0.117,t=0.127,r=0.497,b=0.517), with ID 406f36d6-aa8f-4a86-ab98-f4dfa55948c9 -->\n\n- • **Không để tài liệu Mật và Tuyệt mật** ở các khu vực công cộng: Máy in, máy photocopy, phòng họp, bàn làm việc\n- • **Bản cứng được lưu tại tủ có khóa và đúng vị trí quy định** <!-- text, from page 0 (l=0.538,t=0.125,r=0.912,b=0.517), with ID ebded987-4504-4b1f-b08c-501bf96cee9e -->\n\n## Quy định ra vào Công ty đối với nhân viên ITS\n\n- • Nhân viên công ty được phép ra vào để làm việc\n- • Khu vực màu vàng & đỏ: Chỉ tiếp cận trong phạm vi công việc được phân công <!-- text, from page 0 (l=0.067,t=0.576,r=0.340,b=0.964), with ID e1099d2c-55b8-4d15-b505-06e2de3b398d -->\n\n## Quy định với khách\n\n- • Khách đến công ty cần được quản lý, đăng ký, lưu trữ thông tin với Admin và cập nhật trên https://forms.gle/f73Ah7YUg8mmALEt6\n- • Nhân viên không được tự ý mở cửa cho người lạ <!-- text, from page 0 (l=0.371,t=0.577,r=0.642,b=0.963), with ID f95a6c6d-5086-46d4-b5bf-1835ed90ebbd -->\n\n- Bảo vệ tài sản và kiểm soát ra vào\n  - Tất cả cửa ra vào phải luôn được khóa\n  - Nhân viên chịu trách nhiệm giải quyết hậu quả nếu không tuân thủ gây sự cố mất mát tài sản công ty.\n\n41 <!-- text, from page 0 (l=0.675,t=0.579,r=0.945,b=0.963), with ID 30adcbba-43ca-4525-84cd-cb8548e0842d -->\n\nfigure: simple diagram showing a horizontal blue bar supported by two short vertical grey legs underneath. No text or labels. The overall shape resembles a minimalist table or bench. <!-- marginalia, from page 0 (l=0.908,t=0.956,r=0.924,b=0.970), with ID d0ffd619-4585-4c87-9d64-c5a08797735a -->",
+  "chunks": [
+    {
+      "text": "7. QUY ĐỊNH VỀ SỬ DỤNG MÁY IN, MÁY HỦY GIẤY, TÀI LIỆU BẢN CỨNG – QUY ĐỊNH RA VÀO CÔNG TY",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.03483623266220093,
+            "t": 7.267296314239502e-05,
+            "r": 0.7224791049957275,
+            "b": 0.09039757400751114
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "fd667052-bcaa-4f1f-a5ff-822dbe41d9ea"
+    },
+    {
+      "text": "Summary : This image is a logo for a company named \"Icetea Software\", featuring a stylized red geometric symbol above the company name.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • The logo consists of a red geometric symbol resembling two interlocking \"S\" shapes or a stylized maze, formed by thick red lines.\n  • Two small red diamond shapes are positioned symmetrically on either side of the central symbol.\n  • The company name \"Icetea Software\" appears below the symbol, with \"Icetea\" in a thin, gray sans-serif font and \"Software\" in a bold, black sans-serif font.\n\nDimensions & Placement :\n  • The geometric symbol is centered above the text.\n  • The text is horizontally aligned, with \"Icetea\" and \"Software\" on the same line.\n  • The overall layout is vertically stacked: symbol on top, text below.\n\nAnalysis :\n  • The use of red and bold geometric lines in the symbol suggests a modern, dynamic brand identity.\n  • The contrast between the thin \"Icetea\" and bold \"Software\" highlights the software aspect of the company name.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.8941131234169006,
+            "t": 6.763264536857605e-05,
+            "r": 0.9685516953468323,
+            "b": 0.09273114800453186
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "4de1765d-26fc-4bf2-9bf1-dd1753ab5717"
+    },
+    {
+      "text": "## Hủy tài liệu an toàn\n\n**Phải dùng máy hủy giấy** để hủy tài liệu có thông tin nhạy cảm: Hợp đồng, Bảng lương, hồ sơ dự án, báo cáo tài chính, Hồ sơ khách hàng, dự thầu, doanh thu...",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.11747898161411285,
+            "t": 0.1274387389421463,
+            "r": 0.49654853343963623,
+            "b": 0.5165889263153076
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "406f36d6-aa8f-4a86-ab98-f4dfa55948c9"
+    },
+    {
+      "text": "- • **Không để tài liệu Mật và Tuyệt mật** ở các khu vực công cộng: Máy in, máy photocopy, phòng họp, bàn làm việc\n- • **Bản cứng được lưu tại tủ có khóa và đúng vị trí quy định**",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.53817218542099,
+            "t": 0.12474210560321808,
+            "r": 0.9118686318397522,
+            "b": 0.5168235898017883
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ebded987-4504-4b1f-b08c-501bf96cee9e"
+    },
+    {
+      "text": "## Quy định ra vào Công ty đối với nhân viên ITS\n\n- • Nhân viên công ty được phép ra vào để làm việc\n- • Khu vực màu vàng & đỏ: Chỉ tiếp cận trong phạm vi công việc được phân công",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.06701166927814484,
+            "t": 0.5762618780136108,
+            "r": 0.3398290276527405,
+            "b": 0.9635467529296875
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e1099d2c-55b8-4d15-b505-06e2de3b398d"
+    },
+    {
+      "text": "## Quy định với khách\n\n- • Khách đến công ty cần được quản lý, đăng ký, lưu trữ thông tin với Admin và cập nhật trên https://forms.gle/f73Ah7YUg8mmALEt6\n- • Nhân viên không được tự ý mở cửa cho người lạ",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.37084880471229553,
+            "t": 0.5771982073783875,
+            "r": 0.6423949003219604,
+            "b": 0.96286541223526
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f95a6c6d-5086-46d4-b5bf-1835ed90ebbd"
+    },
+    {
+      "text": "- Bảo vệ tài sản và kiểm soát ra vào\n  - Tất cả cửa ra vào phải luôn được khóa\n  - Nhân viên chịu trách nhiệm giải quyết hậu quả nếu không tuân thủ gây sự cố mất mát tài sản công ty.\n\n41",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.6753361225128174,
+            "t": 0.5792624950408936,
+            "r": 0.9449816942214966,
+            "b": 0.9631434679031372
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "30adcbba-43ca-4525-84cd-cb8548e0842d"
+    },
+    {
+      "text": "figure: simple diagram showing a horizontal blue bar supported by two short vertical grey legs underneath. No text or labels. The overall shape resembles a minimalist table or bench.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.9082972407341003,
+            "t": 0.956377387046814,
+            "r": 0.9241448044776917,
+            "b": 0.9704232215881348
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "d0ffd619-4585-4c87-9d64-c5a08797735a"
+    }
+  ],
+  "extraction": null,
+  "extraction_metadata": null,
+  "start_page_idx": 0,
+  "end_page_idx": 0,
+  "doc_type": "image",
+  "result_path": null,
+  "errors": [],
+  "extraction_error": null,
+  "metadata": {
+    "parse_id": "vtmjw4wzy459hqz41eqzx61dl",
+    "filename": "page_041.png",
+    "page_count": 1,
+    "processed_at": "2025-10-07T07:39:59.060666+00:00",
+    "processing_time_ms": 10832,
+    "pages_processed": 1,
+    "user_id": "jp03ndqeerfn",
+    "pages_rotation_angles": {
+      "0": 0.0
+    }
+  }
+}

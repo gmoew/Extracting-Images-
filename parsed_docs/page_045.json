@@ -1,0 +1,76 @@
+{
+  "markdown": "# XỬ LÝ SỰ CỐ ATTT <!-- text, from page 0 (l=0.030,t=0.018,r=0.242,b=0.081), with ID b83889cd-0de0-4eef-a81f-2af02df762ce -->\n\nSummary : This image is a logo for a company named \"Icetea Software\", featuring a stylized red geometric symbol above the company name.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • Stylized red geometric symbol resembling interlocking \"S\" shapes or paths, centered above the text.\n  • Two small red diamond shapes, one on each side of the main symbol.\n  • Company name \"Icetea Software\" written below the symbol; \"Icetea\" in a light sans-serif font, \"Software\" in bold black sans-serif font.\n\nTypography & Colour :\n  • \"Icetea\" is in a light gray, thin sans-serif typeface.\n  • \"Software\" is in bold black, providing strong contrast.\n  • Red (#D32F2F or similar) is used for the symbol and diamonds; black and gray for the text.\n\nLayout & Placement :\n  • Symbol and diamonds are centered above the text.\n  • Text is horizontally aligned, with \"Icetea\" and \"Software\" on the same line.\n  • Ample white space surrounds the logo elements.\n\nAnalysis :\n  • The logo uses a modern, geometric design to convey a sense of technology and precision.\n  • The contrast between the light \"Icetea\" and bold \"Software\" emphasizes the software aspect of the brand.\n  • The red colour and interlocking shapes may suggest energy, innovation, or connectivity. <!-- figure, from page 0 (l=0.893,t=-0.000,r=0.969,b=0.094), with ID 9996a38c-8798-443a-a471-2742121964e2 -->\n\n# Sự cố dẫn đến đâu?\n\nSự cố: Rò rỉ thông tin của Công ty, của khách hàng ra bên ngoài.\n\nCông ty tốn thời gian công sức, tiền bạc để xử lý sự cố. Người vi phạm có các mức phạt tương ứng.\n\nMất lòng tin đối với khách hàng có thể dẫn đến mất hợp đồng, mất quan hệ với khách hàng.\n\nCông ty thiệt hại lớn và phải đền bù thiệt hại cho khách hàng.\n\nẢnh hưởng đến uy tín, hình ảnh của công ty.\n\n---\n\n1. Thông báo ngay lập tức cho Trưởng ban ISO và các thành viên ban ISO theo Danh sách thông tin liên lạc khi xảy ra sự cố ATTT trong vòng 2h để giải quyết.\n2. Các bộ phận có liên quan cần xác định **nguyên nhân**, đưa ra hành động khắc phục, phòng ngừa để tránh việc lặp lại sự cố;\n3. **Mọi nhân viên** phải có **trách nhiệm** trong xử lý sự cố về ATTT;\n4. Mức xử lý kỷ luật người vi phạm ATTT theo quy định tại Nội quy lao động công ty, mức kỷ luật cao nhất là **sa thải**.\n5. Mức xử phạt hành chính và đền bù tổn thất sự cố theo Cam kết trong bộ NDA đã ký với với Công ty. <!-- text, from page 0 (l=0.009,t=0.117,r=0.999,b=0.979), with ID 7cd9ee9c-a621-4a7b-9acf-5e8d28002d75 -->",
+  "chunks": [
+    {
+      "text": "# XỬ LÝ SỰ CỐ ATTT",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.030178353190422058,
+            "t": 0.018111906945705414,
+            "r": 0.24162320792675018,
+            "b": 0.08133506029844284
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b83889cd-0de0-4eef-a81f-2af02df762ce"
+    },
+    {
+      "text": "Summary : This image is a logo for a company named \"Icetea Software\", featuring a stylized red geometric symbol above the company name.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • Stylized red geometric symbol resembling interlocking \"S\" shapes or paths, centered above the text.\n  • Two small red diamond shapes, one on each side of the main symbol.\n  • Company name \"Icetea Software\" written below the symbol; \"Icetea\" in a light sans-serif font, \"Software\" in bold black sans-serif font.\n\nTypography & Colour :\n  • \"Icetea\" is in a light gray, thin sans-serif typeface.\n  • \"Software\" is in bold black, providing strong contrast.\n  • Red (#D32F2F or similar) is used for the symbol and diamonds; black and gray for the text.\n\nLayout & Placement :\n  • Symbol and diamonds are centered above the text.\n  • Text is horizontally aligned, with \"Icetea\" and \"Software\" on the same line.\n  • Ample white space surrounds the logo elements.\n\nAnalysis :\n  • The logo uses a modern, geometric design to convey a sense of technology and precision.\n  • The contrast between the light \"Icetea\" and bold \"Software\" emphasizes the software aspect of the brand.\n  • The red colour and interlocking shapes may suggest energy, innovation, or connectivity.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.8933735489845276,
+            "t": -0.00015823915600776672,
+            "r": 0.9687773585319519,
+            "b": 0.09352816641330719
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "9996a38c-8798-443a-a471-2742121964e2"
+    },
+    {
+      "text": "# Sự cố dẫn đến đâu?\n\nSự cố: Rò rỉ thông tin của Công ty, của khách hàng ra bên ngoài.\n\nCông ty tốn thời gian công sức, tiền bạc để xử lý sự cố. Người vi phạm có các mức phạt tương ứng.\n\nMất lòng tin đối với khách hàng có thể dẫn đến mất hợp đồng, mất quan hệ với khách hàng.\n\nCông ty thiệt hại lớn và phải đền bù thiệt hại cho khách hàng.\n\nẢnh hưởng đến uy tín, hình ảnh của công ty.\n\n---\n\n1. Thông báo ngay lập tức cho Trưởng ban ISO và các thành viên ban ISO theo Danh sách thông tin liên lạc khi xảy ra sự cố ATTT trong vòng 2h để giải quyết.\n2. Các bộ phận có liên quan cần xác định **nguyên nhân**, đưa ra hành động khắc phục, phòng ngừa để tránh việc lặp lại sự cố;\n3. **Mọi nhân viên** phải có **trách nhiệm** trong xử lý sự cố về ATTT;\n4. Mức xử lý kỷ luật người vi phạm ATTT theo quy định tại Nội quy lao động công ty, mức kỷ luật cao nhất là **sa thải**.\n5. Mức xử phạt hành chính và đền bù tổn thất sự cố theo Cam kết trong bộ NDA đã ký với với Công ty.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.009425193071365356,
+            "t": 0.11701366305351257,
+            "r": 0.9988642930984497,
+            "b": 0.9793345928192139
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7cd9ee9c-a621-4a7b-9acf-5e8d28002d75"
+    }
+  ],
+  "extraction": null,
+  "extraction_metadata": null,
+  "start_page_idx": 0,
+  "end_page_idx": 0,
+  "doc_type": "image",
+  "result_path": null,
+  "errors": [],
+  "extraction_error": null,
+  "metadata": {
+    "parse_id": "d4qxcyx04reyoo9w4as6u0sof",
+    "filename": "page_045.png",
+    "page_count": 1,
+    "processed_at": "2025-10-07T07:40:58.390432+00:00",
+    "processing_time_ms": 9947,
+    "pages_processed": 1,
+    "user_id": "jp03ndqeerfn",
+    "pages_rotation_angles": {
+      "0": 0.0
+    }
+  }
+}

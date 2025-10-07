@@ -1,0 +1,93 @@
+{
+  "markdown": "3. QUY ĐỊNH VỀ SỬ DỤNG THIẾT BỊ CNTT <!-- marginalia, from page 0 (l=0.030,t=0.030,r=0.424,b=0.091), with ID 35b77a21-539b-4f2c-8433-09ad3adcf06e -->\n\nSummary : This image displays the logo for Icetea Software, featuring a stylized red geometric emblem above the company name in two font weights.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • Central geometric emblem composed of interlocking red lines forming a stylized \"S\" shape within a diamond outline.\n  • Two small red diamond shapes flanking the central emblem horizontally.\n  • Company name \"Icetea Software\" written below the emblem; \"Icetea\" in a thin, light font and \"Software\" in bold black font.\n\nLayout & Dimensions :\n  • Emblem is centered above the text.\n  • Text is horizontally aligned, with \"Icetea\" and \"Software\" on the same line.\n  • Logo uses a white background for high contrast.\n\nColour Palette :\n  • Red (#D32F2F or similar) for emblem and diamonds.\n  • Black for \"Software\" text.\n  • Grey or black for \"Icetea\" text.\n\nAnalysis :\n  • The logo combines a modern geometric symbol with clear, contrasting typography to convey a professional and technology-focused brand identity. The bold \"Software\" emphasizes the company's core business, while the red emblem adds visual distinctiveness. <!-- figure, from page 0 (l=0.894,t=0.000,r=0.968,b=0.094), with ID 35afad30-9c3a-4118-ba96-e931948a1543 -->\n\nSummary : This figure presents a set of software management rules for an organization, specifying permitted and prohibited software types, with explicit examples of banned applications.\n\nflowchart:\n# Main Policy Sections :\n• \"Quản lý phần mềm\" (Software Management) as the main title in a blue header.\n• Three main policy boxes below the header, each with white text on a blue gradient background:\n  – Left box: \"Chỉ sử dụng và cài đặt phần mềm có trong danh mục được phép của công ty.\" (Only use and install software listed in the company's approved catalog.)\n  – Center box: \"Tuyệt đối không sử dụng hoặc thử nghiệm phần mềm thăm dò, theo dõi, tấn công.\" (Absolutely do not use or test probing, monitoring, or attack software.)\n  – Right box: \"Nghiêm cấm sử dụng các loại phần mềm sử dụng mạng ngang hàng peer-to-peer như Winny, Share, phần mềm xây dựng VPN ảo như SoftEther và phần mềm điều khiển từ xa như VNC trên các thiết bị thông tin như máy tính chứa thông tin mật.\" (Strictly prohibit the use of peer-to-peer software such as Winny, Share, virtual VPN software like SoftEther, and remote control software like VNC on information devices such as computers containing confidential information.)\n\n# Prohibited Software Examples :\n• Three large boxes at the bottom, each with a red \"X\" over them:\n  – Left: \"Winny, Share\" (P2P file sharing software), with subtitle \"Phần mềm chia sẻ file P2P\".\n  – Center: \"SoftEther\" (VPN software), with subtitle \"Phần mềm VPN ảo\".\n  – Right: \"VNC\" (Remote control software), with subtitle \"Phần mềm điều khiển từ xa\".\n\n# Layout :\n• The figure is organized in two main horizontal bands: the upper band for policy statements (three columns), and the lower band for explicit banned software examples (three columns).\n• All banned software examples are visually marked with a large red \"X\".\n\nAnalysis :\n• The figure clearly distinguishes between general policy (top) and specific prohibited software (bottom).\n• The use of red \"X\" marks visually reinforces the prohibition of the listed software.\n• The policy emphasizes both the need to use only approved software and the absolute ban on certain categories (P2P, VPN, remote control) and their named examples. <!-- figure, from page 0 (l=0.012,t=0.115,r=0.986,b=0.959), with ID d59b5bba-7f58-4981-869d-4a09060b62e1 -->\n\n32 <!-- marginalia, from page 0 (l=0.909,t=0.953,r=0.930,b=0.981), with ID 974f2385-916b-43d0-a3e2-f989551eb2e5 -->",
+  "chunks": [
+    {
+      "text": "3. QUY ĐỊNH VỀ SỬ DỤNG THIẾT BỊ CNTT",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.03041289746761322,
+            "t": 0.03025263547897339,
+            "r": 0.42385315895080566,
+            "b": 0.09090589731931686
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "35b77a21-539b-4f2c-8433-09ad3adcf06e"
+    },
+    {
+      "text": "Summary : This image displays the logo for Icetea Software, featuring a stylized red geometric emblem above the company name in two font weights.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • Central geometric emblem composed of interlocking red lines forming a stylized \"S\" shape within a diamond outline.\n  • Two small red diamond shapes flanking the central emblem horizontally.\n  • Company name \"Icetea Software\" written below the emblem; \"Icetea\" in a thin, light font and \"Software\" in bold black font.\n\nLayout & Dimensions :\n  • Emblem is centered above the text.\n  • Text is horizontally aligned, with \"Icetea\" and \"Software\" on the same line.\n  • Logo uses a white background for high contrast.\n\nColour Palette :\n  • Red (#D32F2F or similar) for emblem and diamonds.\n  • Black for \"Software\" text.\n  • Grey or black for \"Icetea\" text.\n\nAnalysis :\n  • The logo combines a modern geometric symbol with clear, contrasting typography to convey a professional and technology-focused brand identity. The bold \"Software\" emphasizes the company's core business, while the red emblem adds visual distinctiveness.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.8935593366622925,
+            "t": 0.00010110065340995789,
+            "r": 0.9684784412384033,
+            "b": 0.09438793361186981
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "35afad30-9c3a-4118-ba96-e931948a1543"
+    },
+    {
+      "text": "Summary : This figure presents a set of software management rules for an organization, specifying permitted and prohibited software types, with explicit examples of banned applications.\n\nflowchart:\n# Main Policy Sections :\n• \"Quản lý phần mềm\" (Software Management) as the main title in a blue header.\n• Three main policy boxes below the header, each with white text on a blue gradient background:\n  – Left box: \"Chỉ sử dụng và cài đặt phần mềm có trong danh mục được phép của công ty.\" (Only use and install software listed in the company's approved catalog.)\n  – Center box: \"Tuyệt đối không sử dụng hoặc thử nghiệm phần mềm thăm dò, theo dõi, tấn công.\" (Absolutely do not use or test probing, monitoring, or attack software.)\n  – Right box: \"Nghiêm cấm sử dụng các loại phần mềm sử dụng mạng ngang hàng peer-to-peer như Winny, Share, phần mềm xây dựng VPN ảo như SoftEther và phần mềm điều khiển từ xa như VNC trên các thiết bị thông tin như máy tính chứa thông tin mật.\" (Strictly prohibit the use of peer-to-peer software such as Winny, Share, virtual VPN software like SoftEther, and remote control software like VNC on information devices such as computers containing confidential information.)\n\n# Prohibited Software Examples :\n• Three large boxes at the bottom, each with a red \"X\" over them:\n  – Left: \"Winny, Share\" (P2P file sharing software), with subtitle \"Phần mềm chia sẻ file P2P\".\n  – Center: \"SoftEther\" (VPN software), with subtitle \"Phần mềm VPN ảo\".\n  – Right: \"VNC\" (Remote control software), with subtitle \"Phần mềm điều khiển từ xa\".\n\n# Layout :\n• The figure is organized in two main horizontal bands: the upper band for policy statements (three columns), and the lower band for explicit banned software examples (three columns).\n• All banned software examples are visually marked with a large red \"X\".\n\nAnalysis :\n• The figure clearly distinguishes between general policy (top) and specific prohibited software (bottom).\n• The use of red \"X\" marks visually reinforces the prohibition of the listed software.\n• The policy emphasizes both the need to use only approved software and the absolute ban on certain categories (P2P, VPN, remote control) and their named examples.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.011578559875488281,
+            "t": 0.11512887477874756,
+            "r": 0.9857630133628845,
+            "b": 0.9587310552597046
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "d59b5bba-7f58-4981-869d-4a09060b62e1"
+    },
+    {
+      "text": "32",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.9090608358383179,
+            "t": 0.9525567889213562,
+            "r": 0.9304441213607788,
+            "b": 0.9808068871498108
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "974f2385-916b-43d0-a3e2-f989551eb2e5"
+    }
+  ],
+  "extraction": null,
+  "extraction_metadata": null,
+  "start_page_idx": 0,
+  "end_page_idx": 0,
+  "doc_type": "image",
+  "result_path": null,
+  "errors": [],
+  "extraction_error": null,
+  "metadata": {
+    "parse_id": "wc1k8bycocxo4x668lqleiudy",
+    "filename": "page_032.png",
+    "page_count": 1,
+    "processed_at": "2025-10-07T07:40:41.303070+00:00",
+    "processing_time_ms": 13908,
+    "pages_processed": 1,
+    "user_id": "jp03ndqeerfn",
+    "pages_rotation_angles": {
+      "0": 0.0
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "markdown": "Summary : This image is a logo for a company named \"Icetea Software\", featuring a stylized red geometric symbol above the company name in two font weights.\n\nlogo: Icetea Software\n\nDesign Elements :\n  • Central geometric symbol composed of interlocking red lines forming a diamond shape, with two smaller red diamonds flanking the main symbol horizontally.\n  • Company name \"Icetea Software\" is written below the symbol; \"Icetea\" in a thin, light sans-serif font, \"Software\" in bold black sans-serif font.\n  • All elements are centered on a white background.\n\nText & Typography :\n  • \"Icetea\" uses a lighter font weight, while \"Software\" is bolded for emphasis.\n  • No additional tagline or descriptive text is present.\n\nSpatial Relationships :\n  • The geometric symbol is positioned above the company name, with clear vertical separation.\n  • The two smaller diamonds are horizontally aligned with the center of the main symbol.\n\nAnalysis :\n  • The logo uses red to convey energy and attention, while the bolded \"Software\" emphasizes the company's focus.\n  • The geometric symbol may represent connectivity or integration, common themes in software branding.\n  • The clean, minimal design suggests a modern and professional brand identity. <!-- figure, from page 0 (l=0.894,t=0.000,r=0.969,b=0.093), with ID d6ead43f-df25-4a44-8fb4-0f82a46e4e02 -->\n\n5. TRÁCH NHIỆM TUÂN THỦ ATTT  \nCỦA QUẢN LÝ, NHÂN VIÊN ITS <!-- text, from page 0 (l=0.036,t=0.155,r=0.670,b=0.373), with ID 6b1af711-0517-49c5-8631-dc6cb89ef2fb -->\n\nSummary : This illustration shows two people collaborating in a workspace, one using a wheelchair and holding a book, the other working at a laptop, with various charts and diagrams displayed on screens around them.\n\nillustration:\nScene Overview : \n  • Two individuals are depicted in a stylized, flat art style.\n  • The person on the left is seated in a wheelchair, holding a book and gesturing toward a display.\n  • The person on the right is seated at a desk, interacting with a laptop.\n  • The background features multiple digital screens and floating panels with charts and diagrams.\n  • The colour palette is muted with blues, reds, yellows, and greys.\n\nTechnical Details : \n  • No scale bar, magnification, or scientific imaging techniques are present.\n  • On-image UI elements include a pie chart, bar chart, and a flowchart or sticky-note diagram on digital screens.\n  • No legible text or numeric data is visible on the charts.\n\nSpatial Relationships : \n  • The person in the wheelchair is positioned on the left, slightly elevated, and gesturing toward the center.\n  • The person at the desk is on the right, facing the laptop and a large screen.\n  • Digital panels and charts are distributed around both individuals, suggesting a collaborative or analytical environment.\n\nAnalysis : \n  • The illustration visually communicates themes of teamwork, accessibility, and data-driven collaboration in a modern workspace. The presence of charts and diagrams emphasizes analysis and planning, while the inclusive depiction highlights diversity. <!-- figure, from page 0 (l=0.053,t=0.485,r=0.562,b=0.938), with ID 3f05748e-4e03-479b-81ef-cfb3bed32ae9 -->\n\nSummary : This illustration conveys the concept of digital security and user authentication, featuring a smartphone login screen, security icons, and a police officer symbolizing protection.\n\nillustration:\nScene Overview :\n  • Central focus is a large smartphone displaying a login screen with user icon, username and password fields, and a lock icon.\n  • To the left, a large shield with a checkmark symbolizes verified security.\n  • To the right, a police officer in uniform stands with one arm raised, holding a shield with a padlock icon, representing enforcement of security.\n  • Background includes gear icons and a credit card, suggesting technology and financial security.\n  • Colour palette is primarily blue and white, evoking trust and safety.\n\nTechnical Details :\n  • No scale bar or magnification; this is a conceptual illustration.\n  • On-screen UI elements: user icon, username and password fields (with obscured password), login button, and padlock icon.\n  • No legible text except for generic UI symbols.\n\nSpatial Relationships :\n  • Smartphone is centered and dominates the composition.\n  • Security shields are placed to the left (checkmark) and right (padlock) of the phone.\n  • Police officer stands to the right, slightly behind the phone, reinforcing the theme of protection.\n\nAnalysis :\n  • The image visually communicates the importance of secure login processes, user authentication, and the role of both technology and human oversight in digital security.\n  • The use of shields, locks, and a police officer collectively emphasizes protection against unauthorized access. <!-- figure, from page 0 (l=0.589,t=0.417,r=0.966,b=0.957), with ID 553c8f65-fb24-4b08-9121-bbeb107003d2 -->\n\n45 <!-- marginalia, from page 0 (l=0.907,t=0.949,r=0.927,b=0.966), with ID 0d21b165-90e7-42df-9001-cabc711869b0 -->",
+  "chunks": [
+    {
+      "text": "Summary : This image is a logo for a company named \"Icetea Software\", featuring a stylized red geometric symbol above the company name in two font weights.\n\nlogo: Icetea Software\n\nDesign Elements :\n  • Central geometric symbol composed of interlocking red lines forming a diamond shape, with two smaller red diamonds flanking the main symbol horizontally.\n  • Company name \"Icetea Software\" is written below the symbol; \"Icetea\" in a thin, light sans-serif font, \"Software\" in bold black sans-serif font.\n  • All elements are centered on a white background.\n\nText & Typography :\n  • \"Icetea\" uses a lighter font weight, while \"Software\" is bolded for emphasis.\n  • No additional tagline or descriptive text is present.\n\nSpatial Relationships :\n  • The geometric symbol is positioned above the company name, with clear vertical separation.\n  • The two smaller diamonds are horizontally aligned with the center of the main symbol.\n\nAnalysis :\n  • The logo uses red to convey energy and attention, while the bolded \"Software\" emphasizes the company's focus.\n  • The geometric symbol may represent connectivity or integration, common themes in software branding.\n  • The clean, minimal design suggests a modern and professional brand identity.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.893571138381958,
+            "t": 0.00031733885407447815,
+            "r": 0.9686189889907837,
+            "b": 0.09330537915229797
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "d6ead43f-df25-4a44-8fb4-0f82a46e4e02"
+    },
+    {
+      "text": "5. TRÁCH NHIỆM TUÂN THỦ ATTT  \nCỦA QUẢN LÝ, NHÂN VIÊN ITS",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.03634440898895264,
+            "t": 0.15499311685562134,
+            "r": 0.6697104573249817,
+            "b": 0.37306010723114014
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6b1af711-0517-49c5-8631-dc6cb89ef2fb"
+    },
+    {
+      "text": "Summary : This illustration shows two people collaborating in a workspace, one using a wheelchair and holding a book, the other working at a laptop, with various charts and diagrams displayed on screens around them.\n\nillustration:\nScene Overview : \n  • Two individuals are depicted in a stylized, flat art style.\n  • The person on the left is seated in a wheelchair, holding a book and gesturing toward a display.\n  • The person on the right is seated at a desk, interacting with a laptop.\n  • The background features multiple digital screens and floating panels with charts and diagrams.\n  • The colour palette is muted with blues, reds, yellows, and greys.\n\nTechnical Details : \n  • No scale bar, magnification, or scientific imaging techniques are present.\n  • On-image UI elements include a pie chart, bar chart, and a flowchart or sticky-note diagram on digital screens.\n  • No legible text or numeric data is visible on the charts.\n\nSpatial Relationships : \n  • The person in the wheelchair is positioned on the left, slightly elevated, and gesturing toward the center.\n  • The person at the desk is on the right, facing the laptop and a large screen.\n  • Digital panels and charts are distributed around both individuals, suggesting a collaborative or analytical environment.\n\nAnalysis : \n  • The illustration visually communicates themes of teamwork, accessibility, and data-driven collaboration in a modern workspace. The presence of charts and diagrams emphasizes analysis and planning, while the inclusive depiction highlights diversity.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.05261492729187012,
+            "t": 0.48547887802124023,
+            "r": 0.5617138147354126,
+            "b": 0.9376116991043091
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "3f05748e-4e03-479b-81ef-cfb3bed32ae9"
+    },
+    {
+      "text": "Summary : This illustration conveys the concept of digital security and user authentication, featuring a smartphone login screen, security icons, and a police officer symbolizing protection.\n\nillustration:\nScene Overview :\n  • Central focus is a large smartphone displaying a login screen with user icon, username and password fields, and a lock icon.\n  • To the left, a large shield with a checkmark symbolizes verified security.\n  • To the right, a police officer in uniform stands with one arm raised, holding a shield with a padlock icon, representing enforcement of security.\n  • Background includes gear icons and a credit card, suggesting technology and financial security.\n  • Colour palette is primarily blue and white, evoking trust and safety.\n\nTechnical Details :\n  • No scale bar or magnification; this is a conceptual illustration.\n  • On-screen UI elements: user icon, username and password fields (with obscured password), login button, and padlock icon.\n  • No legible text except for generic UI symbols.\n\nSpatial Relationships :\n  • Smartphone is centered and dominates the composition.\n  • Security shields are placed to the left (checkmark) and right (padlock) of the phone.\n  • Police officer stands to the right, slightly behind the phone, reinforcing the theme of protection.\n\nAnalysis :\n  • The image visually communicates the importance of secure login processes, user authentication, and the role of both technology and human oversight in digital security.\n  • The use of shields, locks, and a police officer collectively emphasizes protection against unauthorized access.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.5894283652305603,
+            "t": 0.4171813428401947,
+            "r": 0.9662969708442688,
+            "b": 0.9572646617889404
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "553c8f65-fb24-4b08-9121-bbeb107003d2"
+    },
+    {
+      "text": "45",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.9074400663375854,
+            "t": 0.9486817121505737,
+            "r": 0.9273658990859985,
+            "b": 0.9662479162216187
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "0d21b165-90e7-42df-9001-cabc711869b0"
+    }
+  ],
+  "extraction": null,
+  "extraction_metadata": null,
+  "start_page_idx": 0,
+  "end_page_idx": 0,
+  "doc_type": "image",
+  "result_path": null,
+  "errors": [],
+  "extraction_error": null,
+  "metadata": {
+    "parse_id": "pdai1fe1qcimhe1ku9cy963ha",
+    "filename": "page_043.png",
+    "page_count": 1,
+    "processed_at": "2025-10-07T07:40:20.827003+00:00",
+    "processing_time_ms": 8000,
+    "pages_processed": 1,
+    "user_id": "jp03ndqeerfn",
+    "pages_rotation_angles": {
+      "0": 0.0
+    }
+  }
+}

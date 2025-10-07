@@ -1,0 +1,110 @@
+{
+  "markdown": "## QUY ĐỊNH ATTT TẠI ITS <!-- text, from page 0 (l=0.030,t=0.039,r=0.267,b=0.090), with ID 5ad5620d-c186-4318-8f7d-4f5f15459630 -->\n\nSummary : This image displays the logo for Icetea Software, featuring a stylized red geometric emblem above the company name in two different font weights.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • Red geometric emblem composed of interlocking lines forming a stylized \"S\" shape, enclosed within a diamond outline.\n  • Two small red diamond shapes flanking the central emblem horizontally.\n  • Company name \"Icetea Software\" written below the emblem.\n  • \"Icetea\" in a thin, light gray sans-serif font; \"Software\" in bold black sans-serif font.\n\nLayout & Placement :\n  • Emblem centered above the text.\n  • Text is horizontally aligned, with \"Icetea\" and \"Software\" on the same line.\n  • Ample white space surrounds the logo elements.\n\nAnalysis :\n  • The logo uses a strong red color for the emblem, suggesting energy and modernity.\n  • The contrast between the light and bold font weights in the company name emphasizes \"Software\" as the primary focus.\n  • The geometric emblem may represent connectivity or digital structure, aligning with software branding. <!-- figure, from page 0 (l=0.894,t=0.000,r=0.968,b=0.093), with ID 0ddafb01-a07e-4d97-8e30-c429877e9460 -->\n\n# XỬ LÝ VI PHẠM\n\nTất cả vi phạm liên quan đến an toàn thông tin đều được coi là vi phạm ở mức độ Nghiêm trọng\n\nYêu cầu các nhân sự ký NDA về Bảo mật an toàn thông tin khi gia nhập công ty\n\nTrường hợp phát hiện bất kỳ sự cố vi phạm ATTT: Yêu cầu thành viên báo cáo ngay lập tức tới Quản lý trực tiếp và Thành viên ban ISO. <!-- text, from page 0 (l=0.026,t=0.127,r=0.584,b=0.859), with ID 0cd2af21-2b87-4f4e-829a-c22fdab90ddc -->\n\nSummary : The image shows a businessperson in a suit flicking a red wooden figure off the top of a staircase made of wooden blocks, symbolising removal or dismissal from a position of achievement or leadership.\n\nphoto:\nScene Overview :\n  • Main subject is a hand (likely male, wearing a suit) poised to flick a red wooden pawn-like figure.\n  • The red figure stands atop a staircase constructed from light-coloured wooden blocks, arranged in ascending order from left to right.\n  • The background is a dark suit jacket, white shirt, and blue tie, suggesting a formal business setting.\n  • The composition is close-up, focusing on the hand, figure, and blocks, with the upper torso of the person visible but not the face.\n  • Lighting is even, with no harsh shadows; colours are natural, with the red figure providing a strong focal point.\n\nTechnical Details :\n  • No scale bar or measurement units present.\n  • No visible text or UI elements.\n  • The wooden blocks are uniform in size, forming four steps.\n  • The red figure is distinctly different from the blocks in both colour and shape.\n\nSpatial Relationships :\n  • The red figure is positioned on the highest (rightmost) block, indicating a peak or top position.\n  • The hand is in the foreground, with fingers curled in a flicking gesture, directly above and behind the red figure.\n  • The blocks form a staircase from left (lowest) to right (highest), with the red figure at the summit.\n  • The suit and tie form the background, reinforcing the business context.\n\nAnalysis :\n  • The image visually represents the concept of someone being removed from a position of achievement, leadership, or success, likely in a professional or corporate context.\n  • The ascending blocks suggest progress or career advancement, while the act of flicking the figure implies sudden dismissal or loss of status.\n  • The use of a red figure draws attention to the individual being targeted, highlighting the personal impact of the action. <!-- figure, from page 0 (l=0.624,t=0.196,r=0.935,b=0.866), with ID f84834d0-fcf1-417b-bde3-941bb7050c1f -->\n\n47 <!-- marginalia, from page 0 (l=0.906,t=0.939,r=0.928,b=0.968), with ID 4b912059-6841-4cbf-a2d3-eebf8017f960 -->",
+  "chunks": [
+    {
+      "text": "## QUY ĐỊNH ATTT TẠI ITS",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.030058838427066803,
+            "t": 0.03884099796414375,
+            "r": 0.26654642820358276,
+            "b": 0.09033858776092529
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5ad5620d-c186-4318-8f7d-4f5f15459630"
+    },
+    {
+      "text": "Summary : This image displays the logo for Icetea Software, featuring a stylized red geometric emblem above the company name in two different font weights.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • Red geometric emblem composed of interlocking lines forming a stylized \"S\" shape, enclosed within a diamond outline.\n  • Two small red diamond shapes flanking the central emblem horizontally.\n  • Company name \"Icetea Software\" written below the emblem.\n  • \"Icetea\" in a thin, light gray sans-serif font; \"Software\" in bold black sans-serif font.\n\nLayout & Placement :\n  • Emblem centered above the text.\n  • Text is horizontally aligned, with \"Icetea\" and \"Software\" on the same line.\n  • Ample white space surrounds the logo elements.\n\nAnalysis :\n  • The logo uses a strong red color for the emblem, suggesting energy and modernity.\n  • The contrast between the light and bold font weights in the company name emphasizes \"Software\" as the primary focus.\n  • The geometric emblem may represent connectivity or digital structure, aligning with software branding.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.8940920233726501,
+            "t": 0.0003910921514034271,
+            "r": 0.9680778384208679,
+            "b": 0.09342773258686066
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "0ddafb01-a07e-4d97-8e30-c429877e9460"
+    },
+    {
+      "text": "# XỬ LÝ VI PHẠM\n\nTất cả vi phạm liên quan đến an toàn thông tin đều được coi là vi phạm ở mức độ Nghiêm trọng\n\nYêu cầu các nhân sự ký NDA về Bảo mật an toàn thông tin khi gia nhập công ty\n\nTrường hợp phát hiện bất kỳ sự cố vi phạm ATTT: Yêu cầu thành viên báo cáo ngay lập tức tới Quản lý trực tiếp và Thành viên ban ISO.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.025649815797805786,
+            "t": 0.12663286924362183,
+            "r": 0.5844686031341553,
+            "b": 0.8588417172431946
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "0cd2af21-2b87-4f4e-829a-c22fdab90ddc"
+    },
+    {
+      "text": "Summary : The image shows a businessperson in a suit flicking a red wooden figure off the top of a staircase made of wooden blocks, symbolising removal or dismissal from a position of achievement or leadership.\n\nphoto:\nScene Overview :\n  • Main subject is a hand (likely male, wearing a suit) poised to flick a red wooden pawn-like figure.\n  • The red figure stands atop a staircase constructed from light-coloured wooden blocks, arranged in ascending order from left to right.\n  • The background is a dark suit jacket, white shirt, and blue tie, suggesting a formal business setting.\n  • The composition is close-up, focusing on the hand, figure, and blocks, with the upper torso of the person visible but not the face.\n  • Lighting is even, with no harsh shadows; colours are natural, with the red figure providing a strong focal point.\n\nTechnical Details :\n  • No scale bar or measurement units present.\n  • No visible text or UI elements.\n  • The wooden blocks are uniform in size, forming four steps.\n  • The red figure is distinctly different from the blocks in both colour and shape.\n\nSpatial Relationships :\n  • The red figure is positioned on the highest (rightmost) block, indicating a peak or top position.\n  • The hand is in the foreground, with fingers curled in a flicking gesture, directly above and behind the red figure.\n  • The blocks form a staircase from left (lowest) to right (highest), with the red figure at the summit.\n  • The suit and tie form the background, reinforcing the business context.\n\nAnalysis :\n  • The image visually represents the concept of someone being removed from a position of achievement, leadership, or success, likely in a professional or corporate context.\n  • The ascending blocks suggest progress or career advancement, while the act of flicking the figure implies sudden dismissal or loss of status.\n  • The use of a red figure draws attention to the individual being targeted, highlighting the personal impact of the action.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.6244248747825623,
+            "t": 0.19570201635360718,
+            "r": 0.9351254105567932,
+            "b": 0.8660402894020081
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "f84834d0-fcf1-417b-bde3-941bb7050c1f"
+    },
+    {
+      "text": "47",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.9062575697898865,
+            "t": 0.9391392469406128,
+            "r": 0.9284273982048035,
+            "b": 0.9681707620620728
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "4b912059-6841-4cbf-a2d3-eebf8017f960"
+    }
+  ],
+  "extraction": null,
+  "extraction_metadata": null,
+  "start_page_idx": 0,
+  "end_page_idx": 0,
+  "doc_type": "image",
+  "result_path": null,
+  "errors": [],
+  "extraction_error": null,
+  "metadata": {
+    "parse_id": "w42odjrqotzfl14ygv3sdcjlj",
+    "filename": "page_047.png",
+    "page_count": 1,
+    "processed_at": "2025-10-07T07:41:51.853798+00:00",
+    "processing_time_ms": 6618,
+    "pages_processed": 1,
+    "user_id": "jp03ndqeerfn",
+    "pages_rotation_angles": {
+      "0": 0.0
+    }
+  }
+}

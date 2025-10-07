@@ -1,0 +1,127 @@
+{
+  "markdown": "Summary : This image displays the logo and company name of \"CÔNG TY TNHH ICETEA SOFTWARE\", featuring both Vietnamese and English text along with a geometric symbol.\n\nlogo:  \nCompany Name & Tagline :  \n  • Vietnamese: \"CÔNG TY TNHH ICETEA SOFTWARE\" (translates to \"ICETEA SOFTWARE Co., Ltd.\").  \n  • English: \"Icetea Software\" (with \"Icetea\" in grey and \"Software\" in bold black).\n\nSymbol & Design :  \n  • Central geometric symbol: red, composed of interlocking lines forming a stylised, symmetrical square with two small red squares at opposite corners.  \n  • The symbol is placed above the English company name.\n\nLayout & Placement :  \n  • Vietnamese company name is centered at the top in large, bold serif font.  \n  • Geometric logo is centered below the company name.  \n  • English company name is centered below the logo, with \"Icetea\" in grey and \"Software\" in bold black sans-serif font.\n\nAnalysis :  \n  • The logo uses a red geometric motif to convey a modern, tech-oriented brand identity.  \n  • The dual-language presentation suggests a company operating in both Vietnamese and international contexts.  \n  • The bold, clean design and central alignment reinforce a professional and contemporary image. <!-- figure, from page 0 (l=0.243,t=0.042,r=0.703,b=0.310), with ID 685416d3-7bcb-43e3-a256-c19fb6132dc3 -->\n\nTÀI LIỆU ĐÀO TẠO NHẬN THỨC  \nAN TOÀN THÔNG TIN TẠI ITS  \n(theo Tiêu chuẩn ISO/IEC 27001:2022) <!-- text, from page 0 (l=0.175,t=0.377,r=0.784,b=0.661), with ID 0a0dcf1d-0e53-4fbc-bc36-b011c8e1ed14 -->\n\n[Đối tượng tham gia: Cán bộ nhân viên và cấp quản lý] <!-- text, from page 0 (l=0.248,t=0.715,r=0.753,b=0.782), with ID 4f412568-cac0-4919-8f20-cc6dc7fb5424 -->\n\n30.07.2025\nBan ISO <!-- text, from page 0 (l=0.846,t=0.830,r=0.954,b=0.932), with ID bcc09641-46d0-468a-bc12-f295e08e466a -->\n\nInternal use <!-- marginalia, from page 0 (l=0.429,t=0.921,r=0.529,b=0.966), with ID cf577c19-f4b0-47f1-8554-679aa21a185e -->\n\n <!-- marginalia, from page 0 (l=0.913,t=0.941,r=0.929,b=0.969), with ID 68b65907-61a6-46cb-971f-42ae150ce23a -->",
+  "chunks": [
+    {
+      "text": "Summary : This image displays the logo and company name of \"CÔNG TY TNHH ICETEA SOFTWARE\", featuring both Vietnamese and English text along with a geometric symbol.\n\nlogo:  \nCompany Name & Tagline :  \n  • Vietnamese: \"CÔNG TY TNHH ICETEA SOFTWARE\" (translates to \"ICETEA SOFTWARE Co., Ltd.\").  \n  • English: \"Icetea Software\" (with \"Icetea\" in grey and \"Software\" in bold black).\n\nSymbol & Design :  \n  • Central geometric symbol: red, composed of interlocking lines forming a stylised, symmetrical square with two small red squares at opposite corners.  \n  • The symbol is placed above the English company name.\n\nLayout & Placement :  \n  • Vietnamese company name is centered at the top in large, bold serif font.  \n  • Geometric logo is centered below the company name.  \n  • English company name is centered below the logo, with \"Icetea\" in grey and \"Software\" in bold black sans-serif font.\n\nAnalysis :  \n  • The logo uses a red geometric motif to convey a modern, tech-oriented brand identity.  \n  • The dual-language presentation suggests a company operating in both Vietnamese and international contexts.  \n  • The bold, clean design and central alignment reinforce a professional and contemporary image.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.24255695939064026,
+            "t": 0.04218415915966034,
+            "r": 0.7027007341384888,
+            "b": 0.3103042244911194
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "685416d3-7bcb-43e3-a256-c19fb6132dc3"
+    },
+    {
+      "text": "TÀI LIỆU ĐÀO TẠO NHẬN THỨC  \nAN TOÀN THÔNG TIN TẠI ITS  \n(theo Tiêu chuẩn ISO/IEC 27001:2022)",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.17483383417129517,
+            "t": 0.37711334228515625,
+            "r": 0.7836211323738098,
+            "b": 0.6610426902770996
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "0a0dcf1d-0e53-4fbc-bc36-b011c8e1ed14"
+    },
+    {
+      "text": "[Đối tượng tham gia: Cán bộ nhân viên và cấp quản lý]",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.24838006496429443,
+            "t": 0.7152484059333801,
+            "r": 0.7529127597808838,
+            "b": 0.7816277146339417
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "4f412568-cac0-4919-8f20-cc6dc7fb5424"
+    },
+    {
+      "text": "30.07.2025\nBan ISO",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.8464906811714172,
+            "t": 0.8300613760948181,
+            "r": 0.9539353251457214,
+            "b": 0.931551992893219
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "bcc09641-46d0-468a-bc12-f295e08e466a"
+    },
+    {
+      "text": "Internal use",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.42924052476882935,
+            "t": 0.9212084412574768,
+            "r": 0.5288524627685547,
+            "b": 0.965587317943573
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "cf577c19-f4b0-47f1-8554-679aa21a185e"
+    },
+    {
+      "text": "",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.9125693440437317,
+            "t": 0.9408693909645081,
+            "r": 0.9289035201072693,
+            "b": 0.9688135981559753
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "68b65907-61a6-46cb-971f-42ae150ce23a"
+    }
+  ],
+  "extraction": null,
+  "extraction_metadata": null,
+  "start_page_idx": 0,
+  "end_page_idx": 0,
+  "doc_type": "image",
+  "result_path": null,
+  "errors": [],
+  "extraction_error": null,
+  "metadata": {
+    "parse_id": "s1lepabkoitus9870snecxi0t",
+    "filename": "page_001.png",
+    "page_count": 1,
+    "processed_at": "2025-10-07T07:39:43.336891+00:00",
+    "processing_time_ms": 5979,
+    "pages_processed": 1,
+    "user_id": "jp03ndqeerfn",
+    "pages_rotation_angles": {
+      "0": 0.0
+    }
+  }
+}

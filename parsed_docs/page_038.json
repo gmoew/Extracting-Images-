@@ -1,0 +1,178 @@
+{
+  "markdown": "## 4. QUY ĐỊNH VỀ SỬ DỤNG VÀ TRUY CẬP MẠNG NỘI BỘ <!-- text, from page 0 (l=0.031,t=0.032,r=0.545,b=0.091), with ID 3524690e-12a9-41f1-b2f3-301638ab49f9 -->\n\nSummary : This image displays the logo for Icetea Software, featuring a stylized red geometric emblem above the company name in two font weights.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • Central geometric emblem composed of interlocking red lines forming a stylized \"S\" shape within a diamond outline.\n  • Two small red diamond shapes flanking the central emblem horizontally.\n  • Company name \"Icetea Software\" written below the emblem; \"Icetea\" in a thin, light font and \"Software\" in bold black font.\n\nDesign & Placement :\n  • Emblem and diamonds are centered above the text.\n  • Text is horizontally aligned, with \"Icetea\" in gray and \"Software\" in black.\n  • Logo uses a white background for high contrast.\n\nAnalysis :\n  • The logo combines geometric abstraction with clear typography, emphasizing \"Software\" for brand focus. The red color and bold shapes convey energy and modernity, while the dual font weights distinguish the company name components. <!-- figure, from page 0 (l=0.894,t=0.000,r=0.969,b=0.094), with ID 8f15feb9-ae27-4c10-ad8d-3d56b2aeecd6 -->\n\n# Trách nhiệm quản lý hệ thống CNTT <!-- text, from page 0 (l=0.012,t=0.108,r=0.329,b=0.166), with ID 3fc98894-a697-41af-9e0a-698dde62fc77 -->\n\nXây dựng bằng phân quyền <!-- text, from page 0 (l=0.005,t=0.188,r=0.281,b=0.254), with ID 7397bbf3-34bd-454b-bc27-14866d435d4d -->\n\nPhối hợp xây dựng bảng phân quyền truy cập của từng hệ thống phần mềm nghiệp vụ.\n\nlogo: laboratory flask and gear icon\n**Cài đặt hệ thống quản lý**\n\nCài đặt các hệ thống quản lý vận hành đảm bảo thực hiện đúng theo quy định. <!-- text, from page 0 (l=0.011,t=0.261,r=0.690,b=0.439), with ID c47aa86e-7fd2-41ef-8ef4-07fb2941f739 -->\n\n🔍 Rà soát tài khoản: Định kỳ 6 tháng rà soát các tài khoản không còn sử dụng để thu hồi, huỷ bỏ. <!-- text, from page 0 (l=0.008,t=0.443,r=0.757,b=0.509), with ID fa3aefef-54d1-4173-9215-c94284bccb5c -->\n\n## Các hành vi bị nghiêm cấm\n\nChỉ truy cập dữ liệu được phép thông qua phân quyền của người có thẩm quyền.\n\nKhông cho người khác mượn tài khoản hoặc để lộ mật khẩu. <!-- text, from page 0 (l=0.010,t=0.542,r=0.373,b=0.954), with ID b0b7832e-ee93-4151-911b-5817a13b82bb -->\n\nKhông được sử dụng mạng nội bộ để đăng tải những thông tin chống lại cá nhân, tổ chức, vi phạm thuần phong mỹ tục và quy định an ninh quốc phòng.\n\nKhông truy cập website không liên quan hoặc đã bị chặn. <!-- text, from page 0 (l=0.367,t=0.572,r=0.759,b=0.979), with ID 4ad779f3-1e56-4f35-9e74-59f57636f803 -->\n\nSummary : This image shows a computer monitor displaying a cybersecurity warning about unauthorized access, with a hooded figure in the background suggesting a hacking attempt.\n\nphoto:\nScene Overview :\n  • Main subject: Computer monitor with a digital lock icon and the warning text \"Unauthorized Access Access Detected.\"\n  • Setting: Indoor, with a blurred background featuring a person in a hooded sweatshirt, evoking the image of a hacker.\n  • Perspective: Slightly angled view of the monitor, showing both the screen and part of the desk.\n  • Lighting: Warm, orange-pink ambient lighting dominates the scene, creating a dramatic and urgent atmosphere.\n  • Colour palette: Predominantly dark tones on the monitor, with red warning icon and text, contrasted by the warm background.\n\nTechnical Details :\n  • On-image UI elements: Red padlock icon above the warning message.\n  • Visible text: \"Unauthorized Access Access Detected.\"\n  • Side panel on the screen shows a list of menu items, but most are unreadable except for a few partial words (e.g., \"Requesting,\" \"Tools,\" \"Notify,\" \"Spotting\").\n  • No scale bar or magnification; this is a standard computer monitor.\n\nSpatial Relationships :\n  • Foreground: Monitor and warning message.\n  • Background: Hooded figure, partially obscured, suggesting anonymity and threat.\n  • The warning message and lock icon are centered on the screen, drawing immediate attention.\n\nAnalysis :\n  • The image visually communicates a cybersecurity breach or hacking attempt, using the hooded figure as a symbol of a hacker and the red lock/warning as a clear alert. The composition and lighting heighten the sense of urgency and threat. <!-- figure, from page 0 (l=0.751,t=0.101,r=0.999,b=1.000), with ID 1fcc7db4-faca-4c7c-8f5d-a8b612820eec -->",
+  "chunks": [
+    {
+      "text": "## 4. QUY ĐỊNH VỀ SỬ DỤNG VÀ TRUY CẬP MẠNG NỘI BỘ",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.031036823987960815,
+            "t": 0.031965386122465134,
+            "r": 0.5452597141265869,
+            "b": 0.09066259860992432
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3524690e-12a9-41f1-b2f3-301638ab49f9"
+    },
+    {
+      "text": "Summary : This image displays the logo for Icetea Software, featuring a stylized red geometric emblem above the company name in two font weights.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • Central geometric emblem composed of interlocking red lines forming a stylized \"S\" shape within a diamond outline.\n  • Two small red diamond shapes flanking the central emblem horizontally.\n  • Company name \"Icetea Software\" written below the emblem; \"Icetea\" in a thin, light font and \"Software\" in bold black font.\n\nDesign & Placement :\n  • Emblem and diamonds are centered above the text.\n  • Text is horizontally aligned, with \"Icetea\" in gray and \"Software\" in black.\n  • Logo uses a white background for high contrast.\n\nAnalysis :\n  • The logo combines geometric abstraction with clear typography, emphasizing \"Software\" for brand focus. The red color and bold shapes convey energy and modernity, while the dual font weights distinguish the company name components.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.8938746452331543,
+            "t": 4.9054622650146484e-05,
+            "r": 0.9687682390213013,
+            "b": 0.09420743584632874
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "8f15feb9-ae27-4c10-ad8d-3d56b2aeecd6"
+    },
+    {
+      "text": "# Trách nhiệm quản lý hệ thống CNTT",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.012348055839538574,
+            "t": 0.10822157561779022,
+            "r": 0.3286060690879822,
+            "b": 0.16557197272777557
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "3fc98894-a697-41af-9e0a-698dde62fc77"
+    },
+    {
+      "text": "Xây dựng bằng phân quyền",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.004935652017593384,
+            "t": 0.18805363774299622,
+            "r": 0.28094789385795593,
+            "b": 0.25432470440864563
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "7397bbf3-34bd-454b-bc27-14866d435d4d"
+    },
+    {
+      "text": "Phối hợp xây dựng bảng phân quyền truy cập của từng hệ thống phần mềm nghiệp vụ.\n\nlogo: laboratory flask and gear icon\n**Cài đặt hệ thống quản lý**\n\nCài đặt các hệ thống quản lý vận hành đảm bảo thực hiện đúng theo quy định.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.01111757755279541,
+            "t": 0.260658860206604,
+            "r": 0.6902119517326355,
+            "b": 0.43853187561035156
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c47aa86e-7fd2-41ef-8ef4-07fb2941f739"
+    },
+    {
+      "text": "🔍 Rà soát tài khoản: Định kỳ 6 tháng rà soát các tài khoản không còn sử dụng để thu hồi, huỷ bỏ.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.007745712995529175,
+            "t": 0.44330257177352905,
+            "r": 0.7569690942764282,
+            "b": 0.5093344449996948
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "fa3aefef-54d1-4173-9215-c94284bccb5c"
+    },
+    {
+      "text": "## Các hành vi bị nghiêm cấm\n\nChỉ truy cập dữ liệu được phép thông qua phân quyền của người có thẩm quyền.\n\nKhông cho người khác mượn tài khoản hoặc để lộ mật khẩu.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.010227769613265991,
+            "t": 0.5417813658714294,
+            "r": 0.3728211522102356,
+            "b": 0.9539893269538879
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b0b7832e-ee93-4151-911b-5817a13b82bb"
+    },
+    {
+      "text": "Không được sử dụng mạng nội bộ để đăng tải những thông tin chống lại cá nhân, tổ chức, vi phạm thuần phong mỹ tục và quy định an ninh quốc phòng.\n\nKhông truy cập website không liên quan hoặc đã bị chặn.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.3669438362121582,
+            "t": 0.5717345476150513,
+            "r": 0.75904381275177,
+            "b": 0.9788161516189575
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "4ad779f3-1e56-4f35-9e74-59f57636f803"
+    },
+    {
+      "text": "Summary : This image shows a computer monitor displaying a cybersecurity warning about unauthorized access, with a hooded figure in the background suggesting a hacking attempt.\n\nphoto:\nScene Overview :\n  • Main subject: Computer monitor with a digital lock icon and the warning text \"Unauthorized Access Access Detected.\"\n  • Setting: Indoor, with a blurred background featuring a person in a hooded sweatshirt, evoking the image of a hacker.\n  • Perspective: Slightly angled view of the monitor, showing both the screen and part of the desk.\n  • Lighting: Warm, orange-pink ambient lighting dominates the scene, creating a dramatic and urgent atmosphere.\n  • Colour palette: Predominantly dark tones on the monitor, with red warning icon and text, contrasted by the warm background.\n\nTechnical Details :\n  • On-image UI elements: Red padlock icon above the warning message.\n  • Visible text: \"Unauthorized Access Access Detected.\"\n  • Side panel on the screen shows a list of menu items, but most are unreadable except for a few partial words (e.g., \"Requesting,\" \"Tools,\" \"Notify,\" \"Spotting\").\n  • No scale bar or magnification; this is a standard computer monitor.\n\nSpatial Relationships :\n  • Foreground: Monitor and warning message.\n  • Background: Hooded figure, partially obscured, suggesting anonymity and threat.\n  • The warning message and lock icon are centered on the screen, drawing immediate attention.\n\nAnalysis :\n  • The image visually communicates a cybersecurity breach or hacking attempt, using the hooded figure as a symbol of a hacker and the red lock/warning as a clear alert. The composition and lighting heighten the sense of urgency and threat.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.7509452700614929,
+            "t": 0.10131621360778809,
+            "r": 0.9990924000740051,
+            "b": 0.9995723962783813
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "1fcc7db4-faca-4c7c-8f5d-a8b612820eec"
+    }
+  ],
+  "extraction": null,
+  "extraction_metadata": null,
+  "start_page_idx": 0,
+  "end_page_idx": 0,
+  "doc_type": "image",
+  "result_path": null,
+  "errors": [],
+  "extraction_error": null,
+  "metadata": {
+    "parse_id": "lubalyxndi8l3gjufn29u28q6",
+    "filename": "page_038.png",
+    "page_count": 1,
+    "processed_at": "2025-10-07T07:39:09.769079+00:00",
+    "processing_time_ms": 12220,
+    "pages_processed": 1,
+    "user_id": "jp03ndqeerfn",
+    "pages_rotation_angles": {
+      "0": 0.0
+    }
+  }
+}

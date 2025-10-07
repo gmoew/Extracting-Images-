@@ -1,0 +1,76 @@
+{
+  "markdown": "3. QUY ĐỊNH VỀ SỬ DỤNG THIẾT BỊ CNTT <!-- text, from page 0 (l=0.028,t=0.031,r=0.427,b=0.090), with ID 2e0a5baa-20cf-421c-b651-66c77e58d4a9 -->\n\nSummary : This image is a logo for a company named \"Icetea Software,\" featuring a stylized red geometric symbol above the company name.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • The logo consists of a red geometric symbol resembling two interlocking \"S\" shapes or a stylized chain link, formed by angular lines within a diamond outline.\n  • Two small red diamond shapes are positioned symmetrically on the left and right sides of the main symbol.\n  • Below the symbol, the company name is written as \"Icetea Software\" with \"Icetea\" in a light gray font and \"Software\" in bold black font.\n  • The logo is centered on a white background.\n\nTypography & Colour :\n  • \"Icetea\" uses a thin, sans-serif, light gray font.\n  • \"Software\" uses a bold, sans-serif, black font.\n  • The geometric symbol and side diamonds are in a solid red colour.\n\nDimensions & Placement :\n  • The geometric symbol is centered above the text.\n  • The text is horizontally aligned, with \"Icetea\" and \"Software\" on the same line.\n\nAnalysis :\n  • The logo uses a modern, minimalist design with a strong geometric motif, likely to convey a sense of technology and reliability. The contrast between the light and bold text draws attention to the word \"Software,\" emphasizing the company's industry. <!-- figure, from page 0 (l=0.893,t=-0.000,r=0.970,b=0.094), with ID a2f5be1c-237b-457d-89f6-5378b4a28b85 -->\n\nSummary : This flowchart outlines the restrictions and approval process for employees (CBNV) regarding the use and transport of personal IT devices (such as laptops, iPads, USBs) in and out of a company, with specific limitations based on device type and network/storage capabilities.\n\nflowchart:\n# Nodes :\n  • \"CBNV không tự ý mang các thiết bị CNTT (laptop, Ipad, USB...) ra/vào công ty\" (large rightward arrow)\n  • \"Đăng ký sử dụng với IT, xin phê duyệt của ban ISO và ký cam kết bảo mật thông tin\" (large rightward arrow)\n  • \"Không hoặc hạn chế sử dụng\" (rounded rectangle)\n  • \"Thiết bị có khả năng kết nối trực tiếp vào mạng (wire/wireless) hoặc gián tiếp qua máy trạm (wifi router, network card external/usb,…)\" (rectangle)\n  • \"Thiết bị có khả năng là vật lưu trữ, trung chuyển dữ liệu (USB,…)\" (rectangle)\n  • \"Thiết bị là cầu nối giữa các thiết bị khác (switch, router, các loại converter…)\" (rectangle)\n\n# Connectors :\n  • The first arrow (left) leads to the second arrow (right), indicating a process: employees must not bring devices without approval, and must register and get approval if needed.\n  • The \"Không hoặc hạn chế sử dụng\" node branches into three rectangles, each describing a category of restricted devices.\n\n# Layout :\n  • Two large horizontal arrows at the top, sequentially from left to right.\n  • Below, a vertical stack: one rounded rectangle (\"Không hoặc hạn chế sử dụng\") on the left, branching rightward into three rectangles describing device types.\n  • All elements use blue backgrounds with white text.\n\n# Analysis :\n  • The flowchart visually enforces a strict policy: employees cannot freely bring personal IT devices into/out of the company.\n  • Any use of such devices requires registration, ISO approval, and a signed confidentiality commitment.\n  • Devices with network connectivity, storage/transfer capability, or bridging functions are specifically restricted or prohibited.\n  • The diagram clearly categorises device types and the approval workflow, emphasising information security and controlled access. <!-- figure, from page 0 (l=0.013,t=0.111,r=0.936,b=0.983), with ID f3183085-8b47-4302-acbd-72052a95d72f -->",
+  "chunks": [
+    {
+      "text": "3. QUY ĐỊNH VỀ SỬ DỤNG THIẾT BỊ CNTT",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.027585119009017944,
+            "t": 0.031157484278082848,
+            "r": 0.42719772458076477,
+            "b": 0.08957056701183319
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "2e0a5baa-20cf-421c-b651-66c77e58d4a9"
+    },
+    {
+      "text": "Summary : This image is a logo for a company named \"Icetea Software,\" featuring a stylized red geometric symbol above the company name.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • The logo consists of a red geometric symbol resembling two interlocking \"S\" shapes or a stylized chain link, formed by angular lines within a diamond outline.\n  • Two small red diamond shapes are positioned symmetrically on the left and right sides of the main symbol.\n  • Below the symbol, the company name is written as \"Icetea Software\" with \"Icetea\" in a light gray font and \"Software\" in bold black font.\n  • The logo is centered on a white background.\n\nTypography & Colour :\n  • \"Icetea\" uses a thin, sans-serif, light gray font.\n  • \"Software\" uses a bold, sans-serif, black font.\n  • The geometric symbol and side diamonds are in a solid red colour.\n\nDimensions & Placement :\n  • The geometric symbol is centered above the text.\n  • The text is horizontally aligned, with \"Icetea\" and \"Software\" on the same line.\n\nAnalysis :\n  • The logo uses a modern, minimalist design with a strong geometric motif, likely to convey a sense of technology and reliability. The contrast between the light and bold text draws attention to the word \"Software,\" emphasizing the company's industry.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.892656147480011,
+            "t": -1.601874828338623e-05,
+            "r": 0.9698535799980164,
+            "b": 0.09352554380893707
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "a2f5be1c-237b-457d-89f6-5378b4a28b85"
+    },
+    {
+      "text": "Summary : This flowchart outlines the restrictions and approval process for employees (CBNV) regarding the use and transport of personal IT devices (such as laptops, iPads, USBs) in and out of a company, with specific limitations based on device type and network/storage capabilities.\n\nflowchart:\n# Nodes :\n  • \"CBNV không tự ý mang các thiết bị CNTT (laptop, Ipad, USB...) ra/vào công ty\" (large rightward arrow)\n  • \"Đăng ký sử dụng với IT, xin phê duyệt của ban ISO và ký cam kết bảo mật thông tin\" (large rightward arrow)\n  • \"Không hoặc hạn chế sử dụng\" (rounded rectangle)\n  • \"Thiết bị có khả năng kết nối trực tiếp vào mạng (wire/wireless) hoặc gián tiếp qua máy trạm (wifi router, network card external/usb,…)\" (rectangle)\n  • \"Thiết bị có khả năng là vật lưu trữ, trung chuyển dữ liệu (USB,…)\" (rectangle)\n  • \"Thiết bị là cầu nối giữa các thiết bị khác (switch, router, các loại converter…)\" (rectangle)\n\n# Connectors :\n  • The first arrow (left) leads to the second arrow (right), indicating a process: employees must not bring devices without approval, and must register and get approval if needed.\n  • The \"Không hoặc hạn chế sử dụng\" node branches into three rectangles, each describing a category of restricted devices.\n\n# Layout :\n  • Two large horizontal arrows at the top, sequentially from left to right.\n  • Below, a vertical stack: one rounded rectangle (\"Không hoặc hạn chế sử dụng\") on the left, branching rightward into three rectangles describing device types.\n  • All elements use blue backgrounds with white text.\n\n# Analysis :\n  • The flowchart visually enforces a strict policy: employees cannot freely bring personal IT devices into/out of the company.\n  • Any use of such devices requires registration, ISO approval, and a signed confidentiality commitment.\n  • Devices with network connectivity, storage/transfer capability, or bridging functions are specifically restricted or prohibited.\n  • The diagram clearly categorises device types and the approval workflow, emphasising information security and controlled access.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.013326466083526611,
+            "t": 0.11131978034973145,
+            "r": 0.9362574219703674,
+            "b": 0.9825984239578247
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "f3183085-8b47-4302-acbd-72052a95d72f"
+    }
+  ],
+  "extraction": null,
+  "extraction_metadata": null,
+  "start_page_idx": 0,
+  "end_page_idx": 0,
+  "doc_type": "image",
+  "result_path": null,
+  "errors": [],
+  "extraction_error": null,
+  "metadata": {
+    "parse_id": "vsr4h6ft0l8t0xbvv76i9jn2v",
+    "filename": "page_033.png",
+    "page_count": 1,
+    "processed_at": "2025-10-07T07:39:20.833770+00:00",
+    "processing_time_ms": 7445,
+    "pages_processed": 1,
+    "user_id": "jp03ndqeerfn",
+    "pages_rotation_angles": {
+      "0": 0.0
+    }
+  }
+}

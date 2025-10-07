@@ -1,0 +1,110 @@
+{
+  "markdown": "Summary : This image displays the logo for Icetea Software, featuring a stylized red geometric emblem above the company name.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • Central red geometric emblem composed of interlocking lines forming a diamond-like shape.\n  • Two smaller red diamond shapes flanking the central emblem horizontally.\n  • Company name “Icetea Software” written below the emblem.\n  • “Icetea” in thin, light gray font; “Software” in bold, black font.\n\nLayout & Dimensions :\n  • Emblem centered above the text.\n  • Text is horizontally aligned, with “Icetea” and “Software” on the same line.\n  • White background with no additional graphical elements.\n\nAnalysis :\n  • The logo uses a strong red geometric mark to convey a modern, technical identity.\n  • The contrast between the light “Icetea” and bold “Software” emphasizes the software aspect of the brand.\n  • The overall design is clean and professional, suitable for a technology company. <!-- figure, from page 0 (l=0.893,t=0.000,r=0.969,b=0.094), with ID 7091cd61-e27b-4069-807d-b165cd7ca0f5 -->\n\nSummary : This is a conceptual illustration showing a desktop computer with a monitor displaying the word \"INTERNET\" over an image of the Earth, with dynamic, colorful light trails and lines emanating from the screen and keyboard, symbolizing data flow and connectivity.\n\nphoto:\nScene Overview :\n  • Main subject is a desktop computer with a CRT monitor and a standard keyboard.\n  • The monitor displays the word \"INTERNET\" in large, bold letters, superimposed over an image of the Earth.\n  • Multiple bright, colorful light trails (yellow, orange, green) radiate outward from the screen and keyboard, suggesting rapid data movement or network activity.\n  • The background is dark, which makes the light trails and computer stand out prominently.\n  • The composition is centered, with the computer occupying the middle of the frame.\n\nTechnical Details :\n  • No scale bar, magnification, or scientific imaging modality present.\n  • On-screen text: \"INTERNET\" in all caps, white and cyan gradient.\n  • No visible UI elements or additional text.\n\nSpatial Relationships :\n  • The computer is in the foreground, with the light trails extending from the screen and keyboard toward the viewer and off the sides, creating a sense of depth and motion.\n  • The Earth image is positioned behind the \"INTERNET\" text, reinforcing the global nature of the internet.\n\nAnalysis :\n  • The image visually communicates the concept of the internet as a powerful, global network, with data flowing rapidly to and from the computer.\n  • The use of light trails and the Earth background emphasizes speed, connectivity, and worldwide reach.\n  • The illustration is metaphorical, not literal, and is designed to evoke the idea of digital communication and information exchange. <!-- figure, from page 0 (l=0.095,t=0.121,r=0.476,b=0.539), with ID 052ea2b1-6a57-471d-b834-b0a537ce17a1 -->\n\nSummary : This image shows a collection of Vietnamese-language newspapers arranged in an overlapping, scattered layout, displaying their mastheads and headlines prominently.\n\nphoto:\nScene Overview :\n  • Main subject: A variety of Vietnamese newspapers, with their titles and mastheads visible.\n  • Setting: Newspapers are laid out in a slightly chaotic, overlapping manner, suggesting a focus on print media diversity.\n  • Perspective: Overhead view, capturing the front pages and logos of multiple publications.\n  • Composition: The newspapers are arranged so that their titles are readable, with some partially obscured by others.\n  • Lighting: Even, natural or artificial light, with no strong shadows or highlights.\n  • Colour palette: Predominantly white backgrounds with bold, colourful mastheads in red, blue, green, and black.\n\nTechnical Details :\n  • No scale bar or magnification indicated.\n  • Visible newspaper titles include: \"Người lao động\", \"Thanh Niên\", \"Tuổi Trẻ\", \"Đầu Tư\", \"Tiền Phong\", \"Pháp Luật\", \"Kinh Tế\", \"Diễn Đàn\", and others.\n  • Text is in Vietnamese, with various font sizes and styles for mastheads and headlines.\n\nSpatial Relationships :\n  • Foreground: Central newspapers such as \"Người lao động\" and \"Thanh Niên\" are most prominent.\n  • Background: Other newspapers are partially covered but still identifiable.\n  • Placement: Mastheads are generally horizontal, with some angled for visual interest.\n\nAnalysis :\n  • The image visually communicates the diversity and vibrancy of Vietnamese print journalism, highlighting multiple major publications.\n  • The arrangement emphasizes the variety of news sources available, with no single paper dominating the composition.\n  • The use of bold colours and large fonts for mastheads suggests a competitive media landscape aiming to capture reader attention. <!-- figure, from page 0 (l=0.543,t=0.259,r=0.937,b=0.637), with ID 27f8d34a-bbda-4d7c-a8f2-41c54d3d3528 -->\n\nThông tin là gì?\nATTT là gì?\n\n3. GIỚI THIỆU CHUNG VỀ THÔNG TIN VÀ ATTT <!-- text, from page 0 (l=0.023,t=0.644,r=0.852,b=0.951), with ID 8b434aa1-cbcb-4709-95a0-9c5384b8e3d9 -->\n\n19 <!-- marginalia, from page 0 (l=0.908,t=0.941,r=0.927,b=0.967), with ID b657af0e-3cfa-4648-8e77-5577fc994908 -->",
+  "chunks": [
+    {
+      "text": "Summary : This image displays the logo for Icetea Software, featuring a stylized red geometric emblem above the company name.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • Central red geometric emblem composed of interlocking lines forming a diamond-like shape.\n  • Two smaller red diamond shapes flanking the central emblem horizontally.\n  • Company name “Icetea Software” written below the emblem.\n  • “Icetea” in thin, light gray font; “Software” in bold, black font.\n\nLayout & Dimensions :\n  • Emblem centered above the text.\n  • Text is horizontally aligned, with “Icetea” and “Software” on the same line.\n  • White background with no additional graphical elements.\n\nAnalysis :\n  • The logo uses a strong red geometric mark to convey a modern, technical identity.\n  • The contrast between the light “Icetea” and bold “Software” emphasizes the software aspect of the brand.\n  • The overall design is clean and professional, suitable for a technology company.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.8934558033943176,
+            "t": 0.0001460649073123932,
+            "r": 0.9689034819602966,
+            "b": 0.09358136355876923
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "7091cd61-e27b-4069-807d-b165cd7ca0f5"
+    },
+    {
+      "text": "Summary : This is a conceptual illustration showing a desktop computer with a monitor displaying the word \"INTERNET\" over an image of the Earth, with dynamic, colorful light trails and lines emanating from the screen and keyboard, symbolizing data flow and connectivity.\n\nphoto:\nScene Overview :\n  • Main subject is a desktop computer with a CRT monitor and a standard keyboard.\n  • The monitor displays the word \"INTERNET\" in large, bold letters, superimposed over an image of the Earth.\n  • Multiple bright, colorful light trails (yellow, orange, green) radiate outward from the screen and keyboard, suggesting rapid data movement or network activity.\n  • The background is dark, which makes the light trails and computer stand out prominently.\n  • The composition is centered, with the computer occupying the middle of the frame.\n\nTechnical Details :\n  • No scale bar, magnification, or scientific imaging modality present.\n  • On-screen text: \"INTERNET\" in all caps, white and cyan gradient.\n  • No visible UI elements or additional text.\n\nSpatial Relationships :\n  • The computer is in the foreground, with the light trails extending from the screen and keyboard toward the viewer and off the sides, creating a sense of depth and motion.\n  • The Earth image is positioned behind the \"INTERNET\" text, reinforcing the global nature of the internet.\n\nAnalysis :\n  • The image visually communicates the concept of the internet as a powerful, global network, with data flowing rapidly to and from the computer.\n  • The use of light trails and the Earth background emphasizes speed, connectivity, and worldwide reach.\n  • The illustration is metaphorical, not literal, and is designed to evoke the idea of digital communication and information exchange.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.09491986036300659,
+            "t": 0.1209237277507782,
+            "r": 0.47551584243774414,
+            "b": 0.5389846563339233
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "052ea2b1-6a57-471d-b834-b0a537ce17a1"
+    },
+    {
+      "text": "Summary : This image shows a collection of Vietnamese-language newspapers arranged in an overlapping, scattered layout, displaying their mastheads and headlines prominently.\n\nphoto:\nScene Overview :\n  • Main subject: A variety of Vietnamese newspapers, with their titles and mastheads visible.\n  • Setting: Newspapers are laid out in a slightly chaotic, overlapping manner, suggesting a focus on print media diversity.\n  • Perspective: Overhead view, capturing the front pages and logos of multiple publications.\n  • Composition: The newspapers are arranged so that their titles are readable, with some partially obscured by others.\n  • Lighting: Even, natural or artificial light, with no strong shadows or highlights.\n  • Colour palette: Predominantly white backgrounds with bold, colourful mastheads in red, blue, green, and black.\n\nTechnical Details :\n  • No scale bar or magnification indicated.\n  • Visible newspaper titles include: \"Người lao động\", \"Thanh Niên\", \"Tuổi Trẻ\", \"Đầu Tư\", \"Tiền Phong\", \"Pháp Luật\", \"Kinh Tế\", \"Diễn Đàn\", and others.\n  • Text is in Vietnamese, with various font sizes and styles for mastheads and headlines.\n\nSpatial Relationships :\n  • Foreground: Central newspapers such as \"Người lao động\" and \"Thanh Niên\" are most prominent.\n  • Background: Other newspapers are partially covered but still identifiable.\n  • Placement: Mastheads are generally horizontal, with some angled for visual interest.\n\nAnalysis :\n  • The image visually communicates the diversity and vibrancy of Vietnamese print journalism, highlighting multiple major publications.\n  • The arrangement emphasizes the variety of news sources available, with no single paper dominating the composition.\n  • The use of bold colours and large fonts for mastheads suggests a competitive media landscape aiming to capture reader attention.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.5429689288139343,
+            "t": 0.2587195634841919,
+            "r": 0.9367038607597351,
+            "b": 0.6368443965911865
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "27f8d34a-bbda-4d7c-a8f2-41c54d3d3528"
+    },
+    {
+      "text": "Thông tin là gì?\nATTT là gì?\n\n3. GIỚI THIỆU CHUNG VỀ THÔNG TIN VÀ ATTT",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.022623956203460693,
+            "t": 0.6441736817359924,
+            "r": 0.851703941822052,
+            "b": 0.9511229395866394
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "8b434aa1-cbcb-4709-95a0-9c5384b8e3d9"
+    },
+    {
+      "text": "19",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.9075014591217041,
+            "t": 0.9412100315093994,
+            "r": 0.9268404245376587,
+            "b": 0.9673600196838379
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "b657af0e-3cfa-4648-8e77-5577fc994908"
+    }
+  ],
+  "extraction": null,
+  "extraction_metadata": null,
+  "start_page_idx": 0,
+  "end_page_idx": 0,
+  "doc_type": "image",
+  "result_path": null,
+  "errors": [],
+  "extraction_error": null,
+  "metadata": {
+    "parse_id": "d2xpk68pwnf1txypn5tq91b44",
+    "filename": "page_019.png",
+    "page_count": 1,
+    "processed_at": "2025-10-07T07:44:54.308920+00:00",
+    "processing_time_ms": 129415,
+    "pages_processed": 1,
+    "user_id": "jp03ndqeerfn",
+    "pages_rotation_angles": {
+      "0": 0.0
+    }
+  }
+}

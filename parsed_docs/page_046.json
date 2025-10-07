@@ -1,0 +1,93 @@
+{
+  "markdown": "XỬ LÝ SỰ CỐ ATTT <!-- marginalia, from page 0 (l=0.031,t=0.020,r=0.243,b=0.080), with ID 459c3f42-f01f-49f4-8152-27848f0b8e0b -->\n\nSummary : This image displays the logo for Icetea Software, featuring a stylized red geometric emblem above the company name.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • Central emblem consists of interlocking red lines forming a symmetrical, abstract geometric shape resembling the letter \"S\" within a diamond outline.\n  • Two small red diamond shapes flank the central emblem horizontally.\n  • Company name \"Icetea Software\" is written below the emblem; \"Icetea\" in light gray, \"Software\" in bold black font.\n\nTypography & Colour :\n  • \"Icetea\" uses a thin, sans-serif font in light gray.\n  • \"Software\" uses a bold, sans-serif font in black.\n  • Emblem and diamonds are rendered in solid red (#D32F2F or similar).\n\nLayout & Dimensions :\n  • Emblem is centered above the text.\n  • Text is horizontally aligned, with \"Icetea\" and \"Software\" on the same line.\n  • Logo is set against a plain white background.\n\nAnalysis :\n  • The logo combines a modern, geometric emblem with clean typography to convey a professional and technology-focused brand identity. The use of red suggests energy and confidence, while the bold \"Software\" emphasizes the company's core business. <!-- figure, from page 0 (l=0.893,t=0.000,r=0.969,b=0.093), with ID 492bde33-8861-48f2-a04d-c4ec69e9ee3c -->\n\n# Danh sách thông tin liên lạc khi xảy ra sự cố ATTT <!-- text, from page 0 (l=0.026,t=0.117,r=0.585,b=0.176), with ID 6914997d-cfa1-4df2-bed9-4fb1dde13785 -->\n\n<table><thead><tr><th>STT</th><th>Họ và tên</th><th>Chức vụ</th><th>Email</th><th>Telegram</th></tr></thead><tbody><tr><td>1</td><td>Ms. Lê Thị Diệu Thúy</td><td>Trưởng ban ISO</td><td>thuyltd@iceteasoftware.com</td><td>Thuyltd</td></tr><tr><td>2</td><td>Mr. Nguyễn Viết Thành</td><td>Phó ban ISO</td><td>josh@iceteasoftware.com</td><td>kapparino</td></tr><tr><td>3</td><td>Ms. Hoàng Thị Thu Hiền</td><td>Thư ký ban ISO</td><td>hienhtt@iceteasoftware.com</td><td>hienhoang25</td></tr><tr><td>4</td><td>Mr. Nguyễn Bá Long</td><td>IT Help desk</td><td>longnb@iceteasoftware.com</td><td>Long160220</td></tr><tr><td>5</td><td>Mr. Trần Hoàng Hải</td><td>GD BP sản xuất GLYPH</td><td>haith@iceteasoftware.com</td><td>EricTran90</td></tr><tr><td>6</td><td>Mr. Phạm Hưng</td><td>GD BP sản xuất BLC</td><td>hungp@iceteasoftware.com</td><td>hulk_1901</td></tr><tr><td>7</td><td>Ms. Hứa Thị Hương</td><td>Trưởng phòng HCNS</td><td>huonght1@iceteasoftware.com</td><td>Huonght17</td></tr><tr><td>8</td><td>Ms. Trần Thị An</td><td>Trưởng phòng ĐBNL</td><td>antt@iceteasoftware.com</td><td>tranan198</td></tr><tr><td>9</td><td>Mr. Lê Xuân Tùng</td><td>GD BP Sale Global</td><td>tunglx@iceteasoftware.com</td><td>tunglx12</td></tr><tr><td>10</td><td>Ms. Nguyễn Thanh Hương</td><td>GD BP Sale Korea</td><td>grace@iceteasoftware.com</td><td>Grace_nguyen2210</td></tr><tr><td>11</td><td>Ms. Nguyễn Thị Ngọc Giang</td><td>GD Sale Web3</td><td>giangntn@iceteasoftware.com</td><td>olivsund</td></tr><tr><td>12</td><td>Mr. Vương Trọng Nhân</td><td>GD BP ITK</td><td>nhanvt@iceteasoftware.com</td><td>nathanvuong</td></tr></tbody></table> <!-- table, from page 0 (l=0.025,t=0.196,r=0.973,b=0.967), with ID 1a1c2dee-4182-4526-959c-c02dc1067883 -->",
+  "chunks": [
+    {
+      "text": "XỬ LÝ SỰ CỐ ATTT",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.03060232102870941,
+            "t": 0.020027579739689827,
+            "r": 0.24282987415790558,
+            "b": 0.07951295375823975
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "459c3f42-f01f-49f4-8152-27848f0b8e0b"
+    },
+    {
+      "text": "Summary : This image displays the logo for Icetea Software, featuring a stylized red geometric emblem above the company name.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • Central emblem consists of interlocking red lines forming a symmetrical, abstract geometric shape resembling the letter \"S\" within a diamond outline.\n  • Two small red diamond shapes flank the central emblem horizontally.\n  • Company name \"Icetea Software\" is written below the emblem; \"Icetea\" in light gray, \"Software\" in bold black font.\n\nTypography & Colour :\n  • \"Icetea\" uses a thin, sans-serif font in light gray.\n  • \"Software\" uses a bold, sans-serif font in black.\n  • Emblem and diamonds are rendered in solid red (#D32F2F or similar).\n\nLayout & Dimensions :\n  • Emblem is centered above the text.\n  • Text is horizontally aligned, with \"Icetea\" and \"Software\" on the same line.\n  • Logo is set against a plain white background.\n\nAnalysis :\n  • The logo combines a modern, geometric emblem with clean typography to convey a professional and technology-focused brand identity. The use of red suggests energy and confidence, while the bold \"Software\" emphasizes the company's core business.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.8931187987327576,
+            "t": 9.828060865402222e-05,
+            "r": 0.96889728307724,
+            "b": 0.0931515321135521
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "492bde33-8861-48f2-a04d-c4ec69e9ee3c"
+    },
+    {
+      "text": "# Danh sách thông tin liên lạc khi xảy ra sự cố ATTT",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.026199042797088623,
+            "t": 0.11720395088195801,
+            "r": 0.585309624671936,
+            "b": 0.1756846308708191
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "6914997d-cfa1-4df2-bed9-4fb1dde13785"
+    },
+    {
+      "text": "<table><thead><tr><th>STT</th><th>Họ và tên</th><th>Chức vụ</th><th>Email</th><th>Telegram</th></tr></thead><tbody><tr><td>1</td><td>Ms. Lê Thị Diệu Thúy</td><td>Trưởng ban ISO</td><td>thuyltd@iceteasoftware.com</td><td>Thuyltd</td></tr><tr><td>2</td><td>Mr. Nguyễn Viết Thành</td><td>Phó ban ISO</td><td>josh@iceteasoftware.com</td><td>kapparino</td></tr><tr><td>3</td><td>Ms. Hoàng Thị Thu Hiền</td><td>Thư ký ban ISO</td><td>hienhtt@iceteasoftware.com</td><td>hienhoang25</td></tr><tr><td>4</td><td>Mr. Nguyễn Bá Long</td><td>IT Help desk</td><td>longnb@iceteasoftware.com</td><td>Long160220</td></tr><tr><td>5</td><td>Mr. Trần Hoàng Hải</td><td>GD BP sản xuất GLYPH</td><td>haith@iceteasoftware.com</td><td>EricTran90</td></tr><tr><td>6</td><td>Mr. Phạm Hưng</td><td>GD BP sản xuất BLC</td><td>hungp@iceteasoftware.com</td><td>hulk_1901</td></tr><tr><td>7</td><td>Ms. Hứa Thị Hương</td><td>Trưởng phòng HCNS</td><td>huonght1@iceteasoftware.com</td><td>Huonght17</td></tr><tr><td>8</td><td>Ms. Trần Thị An</td><td>Trưởng phòng ĐBNL</td><td>antt@iceteasoftware.com</td><td>tranan198</td></tr><tr><td>9</td><td>Mr. Lê Xuân Tùng</td><td>GD BP Sale Global</td><td>tunglx@iceteasoftware.com</td><td>tunglx12</td></tr><tr><td>10</td><td>Ms. Nguyễn Thanh Hương</td><td>GD BP Sale Korea</td><td>grace@iceteasoftware.com</td><td>Grace_nguyen2210</td></tr><tr><td>11</td><td>Ms. Nguyễn Thị Ngọc Giang</td><td>GD Sale Web3</td><td>giangntn@iceteasoftware.com</td><td>olivsund</td></tr><tr><td>12</td><td>Mr. Vương Trọng Nhân</td><td>GD BP ITK</td><td>nhanvt@iceteasoftware.com</td><td>nathanvuong</td></tr></tbody></table>",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.024890422821044922,
+            "t": 0.19608446955680847,
+            "r": 0.9729505777359009,
+            "b": 0.9672073125839233
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "table",
+      "chunk_id": "1a1c2dee-4182-4526-959c-c02dc1067883"
+    }
+  ],
+  "extraction": null,
+  "extraction_metadata": null,
+  "start_page_idx": 0,
+  "end_page_idx": 0,
+  "doc_type": "image",
+  "result_path": null,
+  "errors": [],
+  "extraction_error": null,
+  "metadata": {
+    "parse_id": "sijelghz1rgs8nr37cuk30pz0",
+    "filename": "page_046.png",
+    "page_count": 1,
+    "processed_at": "2025-10-07T07:41:29.926041+00:00",
+    "processing_time_ms": 18090,
+    "pages_processed": 1,
+    "user_id": "jp03ndqeerfn",
+    "pages_rotation_angles": {
+      "0": 0.0
+    }
+  }
+}

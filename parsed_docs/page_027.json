@@ -1,0 +1,93 @@
+{
+  "markdown": "Summary : This image displays the logo for Icetea Software, featuring a stylized red geometric emblem above the company name in two font weights.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • Central emblem: Red geometric design composed of interlocking lines forming a stylized \"S\" shape within a diamond outline.\n  • Two small red diamond shapes flanking the central emblem horizontally.\n  • Text below emblem: \"Icetea Software\" with \"Icetea\" in a thin, light sans-serif font and \"Software\" in bold black sans-serif font.\n\nColour & Placement :\n  • Emblem and diamonds: Solid red (#D32F2F).\n  • Text: \"Icetea\" in grey, \"Software\" in black.\n  • Emblem centered above text, with equal spacing.\n\nDimensions & Duplication Cues :\n  • Emblem height approximately equal to combined text height.\n  • Text is horizontally aligned, with \"Software\" visually heavier due to bold weight.\n\nAnalysis :\n  • The logo uses a modern, geometric style to convey a sense of technology and precision.\n  • The bold \"Software\" emphasizes the company's core business, while the red emblem provides a distinctive brand mark. <!-- figure, from page 0 (l=0.894,t=0.000,r=0.969,b=0.093), with ID 7d827f3e-d094-487b-b1a1-53e2d36b9ba0 -->\n\nSummary : This digital illustration highlights the concept of ISO 27001:2022 certification, using a futuristic, technology-themed design with a virtual hand interacting with a circular interface.\n\nphoto:\nScene Overview :\n  • Main subject is a glowing blue circular interface with a virtual, wireframe hand (index finger extended) appearing to press or interact with the center.\n  • The right side prominently displays the text: \"ISO 27001:2022 CERTIFICATION\" in large, bright blue letters.\n  • Surrounding the central circle are six smaller circular icons, each with a different symbol: group of people, globe, checklist, gear, shield with checkmark, and a lightbulb.\n  • The background is a deep blue with concentric digital rings and geometric patterns, evoking a high-tech, cybersecurity theme.\n\nTechnical Details :\n  • No scale bar or physical measurement; purely illustrative.\n  • All text and icons are digitally rendered in shades of blue and cyan.\n  • The interface and hand are semi-transparent, with glowing edges and a holographic effect.\n\nSpatial Relationships :\n  • The virtual hand is in the lower center, reaching up to the main circle.\n  • The ISO certification text is aligned horizontally to the right of the main circle, occupying the right third of the image.\n  • The six icons are evenly distributed around the central circle, forming a ring.\n\nAnalysis :\n  • The image visually communicates the importance of ISO 27001:2022 certification in the context of digital security and information management.\n  • The use of a virtual hand and digital interface reinforces themes of technology, interactivity, and modern compliance standards.\n  • The arrangement and glowing effects draw attention to the certification as a central, actionable goal. <!-- figure, from page 0 (l=0.286,t=0.108,r=0.823,b=0.670), with ID 63e02648-a972-4a66-82a3-bcf627d7c9b3 -->\n\n4. QUY ĐỊNH AN TOÀN THÔNG TIN TẠI ITS <!-- text, from page 0 (l=0.086,t=0.742,r=0.851,b=0.842), with ID f9772008-f6f3-4a47-a59d-f5c05e1eacd3 -->\n\n27 <!-- marginalia, from page 0 (l=0.907,t=0.939,r=0.927,b=0.968), with ID 1efd09d9-40c2-4c2c-82c0-ed9dfe080590 -->",
+  "chunks": [
+    {
+      "text": "Summary : This image displays the logo for Icetea Software, featuring a stylized red geometric emblem above the company name in two font weights.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • Central emblem: Red geometric design composed of interlocking lines forming a stylized \"S\" shape within a diamond outline.\n  • Two small red diamond shapes flanking the central emblem horizontally.\n  • Text below emblem: \"Icetea Software\" with \"Icetea\" in a thin, light sans-serif font and \"Software\" in bold black sans-serif font.\n\nColour & Placement :\n  • Emblem and diamonds: Solid red (#D32F2F).\n  • Text: \"Icetea\" in grey, \"Software\" in black.\n  • Emblem centered above text, with equal spacing.\n\nDimensions & Duplication Cues :\n  • Emblem height approximately equal to combined text height.\n  • Text is horizontally aligned, with \"Software\" visually heavier due to bold weight.\n\nAnalysis :\n  • The logo uses a modern, geometric style to convey a sense of technology and precision.\n  • The bold \"Software\" emphasizes the company's core business, while the red emblem provides a distinctive brand mark.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.8939992189407349,
+            "t": 0.0001324005424976349,
+            "r": 0.968773365020752,
+            "b": 0.0932847112417221
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "7d827f3e-d094-487b-b1a1-53e2d36b9ba0"
+    },
+    {
+      "text": "Summary : This digital illustration highlights the concept of ISO 27001:2022 certification, using a futuristic, technology-themed design with a virtual hand interacting with a circular interface.\n\nphoto:\nScene Overview :\n  • Main subject is a glowing blue circular interface with a virtual, wireframe hand (index finger extended) appearing to press or interact with the center.\n  • The right side prominently displays the text: \"ISO 27001:2022 CERTIFICATION\" in large, bright blue letters.\n  • Surrounding the central circle are six smaller circular icons, each with a different symbol: group of people, globe, checklist, gear, shield with checkmark, and a lightbulb.\n  • The background is a deep blue with concentric digital rings and geometric patterns, evoking a high-tech, cybersecurity theme.\n\nTechnical Details :\n  • No scale bar or physical measurement; purely illustrative.\n  • All text and icons are digitally rendered in shades of blue and cyan.\n  • The interface and hand are semi-transparent, with glowing edges and a holographic effect.\n\nSpatial Relationships :\n  • The virtual hand is in the lower center, reaching up to the main circle.\n  • The ISO certification text is aligned horizontally to the right of the main circle, occupying the right third of the image.\n  • The six icons are evenly distributed around the central circle, forming a ring.\n\nAnalysis :\n  • The image visually communicates the importance of ISO 27001:2022 certification in the context of digital security and information management.\n  • The use of a virtual hand and digital interface reinforces themes of technology, interactivity, and modern compliance standards.\n  • The arrangement and glowing effects draw attention to the certification as a central, actionable goal.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.2863321006298065,
+            "t": 0.10751074552536011,
+            "r": 0.822588324546814,
+            "b": 0.6701342463493347
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "63e02648-a972-4a66-82a3-bcf627d7c9b3"
+    },
+    {
+      "text": "4. QUY ĐỊNH AN TOÀN THÔNG TIN TẠI ITS",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.08559712767601013,
+            "t": 0.7417809963226318,
+            "r": 0.8506910800933838,
+            "b": 0.8420121669769287
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f9772008-f6f3-4a47-a59d-f5c05e1eacd3"
+    },
+    {
+      "text": "27",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.9071524143218994,
+            "t": 0.9390169978141785,
+            "r": 0.9268780946731567,
+            "b": 0.9676045775413513
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "1efd09d9-40c2-4c2c-82c0-ed9dfe080590"
+    }
+  ],
+  "extraction": null,
+  "extraction_metadata": null,
+  "start_page_idx": 0,
+  "end_page_idx": 0,
+  "doc_type": "image",
+  "result_path": null,
+  "errors": [],
+  "extraction_error": null,
+  "metadata": {
+    "parse_id": "vfpt9i7iq6g62znftt2hpnznz",
+    "filename": "page_027.png",
+    "page_count": 1,
+    "processed_at": "2025-10-07T07:47:15.828588+00:00",
+    "processing_time_ms": 9914,
+    "pages_processed": 1,
+    "user_id": "jp03ndqeerfn",
+    "pages_rotation_angles": {
+      "0": 0.0
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "markdown": "## THÔNG TIN LÀ GÌ? <!-- marginalia, from page 0 (l=0.031,t=0.037,r=0.219,b=0.090), with ID d903f02d-6eb9-4d18-964b-de1305b094b0 -->\n\nSummary : This image displays the logo for Icetea Software, featuring a stylized red geometric emblem above the company name.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • The logo consists of a red geometric emblem resembling interlocking or mirrored \"S\" shapes, forming a diamond-like outline.\n  • Two small red diamond shapes are positioned horizontally on either side of the central emblem.\n  • Below the emblem, the company name is written: \"Icetea Software\".\n  • \"Icetea\" is in a thin, gray sans-serif font; \"Software\" is in bold, black sans-serif font.\n\nLayout & Placement :\n  • The emblem is centered above the text.\n  • The text is horizontally aligned, with \"Icetea\" and \"Software\" on the same line.\n  • The overall design is on a white background.\n\nAnalysis :\n  • The logo uses red to create a strong visual identity, with geometric shapes suggesting modernity and technology.\n  • The contrast between the thin and bold fonts differentiates the two parts of the company name, emphasizing \"Software\". <!-- figure, from page 0 (l=0.895,t=0.000,r=0.967,b=0.093), with ID cb63755f-1774-442a-9026-06aff60b9ccd -->\n\n- • Cách thông tin thường được ghi/lưu trữ:\n  a) Được lưu trữ trong não bộ của con người: Được ghi nhớ thông qua học tập, quan sát…\n  b) Được in hoặc viết ra giấy: tài liệu, hóa đơn, hợp đồng, ghi chú...\n  c) Được lưu trữ bằng máy tính: Lưu trong ổ cứng, máy chủ, các thiết bị số khác.\n  d) Được lưu trên không gian mạng: Cloud, Email, website, hệ thống lưu trữ trực tuyến, mạng xã hội... <!-- text, from page 0 (l=0.024,t=0.130,r=0.732,b=0.493), with ID 700561a3-3944-42c1-b796-f2def8c49358 -->\n\nSummary : This illustration represents a stylized human head filled with interconnected gears, surrounded by colourful icons and symbols representing various fields of knowledge and learning, such as science, mathematics, music, art, and sports.\n\nillustration:\nScene Overview :\n  • Main subject is a side-profile silhouette of a human head in orange and red hues, with three visible gears inside the head symbolizing thinking or cognition.\n  • Above and around the head are numerous circular icons in bright colours (orange, blue, green, purple, pink, yellow) depicting symbols for different academic and creative disciplines.\n  • The background is solid black, making the colours and icons stand out vividly.\n  • The composition is central, with the head at the bottom centre and icons radiating outward above.\n\nTechnical Details :\n  • No scale bar, magnification, or scientific imaging modality present.\n  • Icons include: DNA helix, atom, globe, mathematical equations (2+2, V123, %), music note, paint palette, soccer player, microscope, flask, cube, and more.\n  • Letters (A, E, P, H, T) and numbers (2, 3, 7, 123) are scattered among the icons.\n  • No on-image UI elements or text other than symbols and equations.\n\nSpatial Relationships :\n  • The head occupies the lower centre, with gears inside the cranium area.\n  • Icons and symbols are arranged in a semi-circular arc above the head, suggesting thoughts or knowledge emanating from the mind.\n  • Foreground consists of the head and gears; background is black; icons are in the midground.\n\nAnalysis :\n  • The image visually conveys the concept of a mind filled with diverse knowledge and creativity, integrating science, mathematics, art, music, and sports.\n  • The gears inside the head reinforce the idea of mental processing or intellectual activity.\n  • The colourful, varied icons suggest a holistic approach to learning and intelligence. <!-- figure, from page 0 (l=0.737,t=0.109,r=0.983,b=0.504), with ID 08528767-893a-42ba-9532-72814dee8692 -->\n\n- • Cách Thông tin thường được truyền/phát ra ngoài:\n  a) Được trao đổi qua lời nói, cử chỉ hành động: Nói chuyện, họp nhóm, thảo luận, ngôn ngữ cơ thể (gật đầu, lắc đầu…),…\n  b) Được trao đổi qua mạng Internet: Mail, Zalo, Teams, Messenger, Telegram, Zoom chat…\n  c) Được trao đổi qua các phương tiện viễn thông: Gọi điện thoại, hội nghị truyền hình, truyền hình trực tiếp...\n  d) Được trình chiếu khi thuyết trình: Trình bày PowerPoint trong cuộc họp, hội thảo, lớp học... <!-- text, from page 0 (l=0.023,t=0.533,r=0.983,b=0.928), with ID 90e04ac3-e2b1-4cb0-bdce-ae197eb0349e -->\n\n21 <!-- marginalia, from page 0 (l=0.907,t=0.940,r=0.928,b=0.968), with ID c9c5b0b1-7883-4861-8f6a-ec4b9863165f -->",
+  "chunks": [
+    {
+      "text": "## THÔNG TIN LÀ GÌ?",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.0314275324344635,
+            "t": 0.03676733374595642,
+            "r": 0.21923568844795227,
+            "b": 0.09038665890693665
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "d903f02d-6eb9-4d18-964b-de1305b094b0"
+    },
+    {
+      "text": "Summary : This image displays the logo for Icetea Software, featuring a stylized red geometric emblem above the company name.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • The logo consists of a red geometric emblem resembling interlocking or mirrored \"S\" shapes, forming a diamond-like outline.\n  • Two small red diamond shapes are positioned horizontally on either side of the central emblem.\n  • Below the emblem, the company name is written: \"Icetea Software\".\n  • \"Icetea\" is in a thin, gray sans-serif font; \"Software\" is in bold, black sans-serif font.\n\nLayout & Placement :\n  • The emblem is centered above the text.\n  • The text is horizontally aligned, with \"Icetea\" and \"Software\" on the same line.\n  • The overall design is on a white background.\n\nAnalysis :\n  • The logo uses red to create a strong visual identity, with geometric shapes suggesting modernity and technology.\n  • The contrast between the thin and bold fonts differentiates the two parts of the company name, emphasizing \"Software\".",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.8950275182723999,
+            "t": 0.0004559941589832306,
+            "r": 0.9674981832504272,
+            "b": 0.09270955622196198
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "cb63755f-1774-442a-9026-06aff60b9ccd"
+    },
+    {
+      "text": "- • Cách thông tin thường được ghi/lưu trữ:\n  a) Được lưu trữ trong não bộ của con người: Được ghi nhớ thông qua học tập, quan sát…\n  b) Được in hoặc viết ra giấy: tài liệu, hóa đơn, hợp đồng, ghi chú...\n  c) Được lưu trữ bằng máy tính: Lưu trong ổ cứng, máy chủ, các thiết bị số khác.\n  d) Được lưu trên không gian mạng: Cloud, Email, website, hệ thống lưu trữ trực tuyến, mạng xã hội...",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.023510277271270752,
+            "t": 0.13017815351486206,
+            "r": 0.7321194410324097,
+            "b": 0.49254077672958374
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "700561a3-3944-42c1-b796-f2def8c49358"
+    },
+    {
+      "text": "Summary : This illustration represents a stylized human head filled with interconnected gears, surrounded by colourful icons and symbols representing various fields of knowledge and learning, such as science, mathematics, music, art, and sports.\n\nillustration:\nScene Overview :\n  • Main subject is a side-profile silhouette of a human head in orange and red hues, with three visible gears inside the head symbolizing thinking or cognition.\n  • Above and around the head are numerous circular icons in bright colours (orange, blue, green, purple, pink, yellow) depicting symbols for different academic and creative disciplines.\n  • The background is solid black, making the colours and icons stand out vividly.\n  • The composition is central, with the head at the bottom centre and icons radiating outward above.\n\nTechnical Details :\n  • No scale bar, magnification, or scientific imaging modality present.\n  • Icons include: DNA helix, atom, globe, mathematical equations (2+2, V123, %), music note, paint palette, soccer player, microscope, flask, cube, and more.\n  • Letters (A, E, P, H, T) and numbers (2, 3, 7, 123) are scattered among the icons.\n  • No on-image UI elements or text other than symbols and equations.\n\nSpatial Relationships :\n  • The head occupies the lower centre, with gears inside the cranium area.\n  • Icons and symbols are arranged in a semi-circular arc above the head, suggesting thoughts or knowledge emanating from the mind.\n  • Foreground consists of the head and gears; background is black; icons are in the midground.\n\nAnalysis :\n  • The image visually conveys the concept of a mind filled with diverse knowledge and creativity, integrating science, mathematics, art, music, and sports.\n  • The gears inside the head reinforce the idea of mental processing or intellectual activity.\n  • The colourful, varied icons suggest a holistic approach to learning and intelligence.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.7373346090316772,
+            "t": 0.10922729969024658,
+            "r": 0.9829497337341309,
+            "b": 0.5039139986038208
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "08528767-893a-42ba-9532-72814dee8692"
+    },
+    {
+      "text": "- • Cách Thông tin thường được truyền/phát ra ngoài:\n  a) Được trao đổi qua lời nói, cử chỉ hành động: Nói chuyện, họp nhóm, thảo luận, ngôn ngữ cơ thể (gật đầu, lắc đầu…),…\n  b) Được trao đổi qua mạng Internet: Mail, Zalo, Teams, Messenger, Telegram, Zoom chat…\n  c) Được trao đổi qua các phương tiện viễn thông: Gọi điện thoại, hội nghị truyền hình, truyền hình trực tiếp...\n  d) Được trình chiếu khi thuyết trình: Trình bày PowerPoint trong cuộc họp, hội thảo, lớp học...",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.023383617401123047,
+            "t": 0.5325523614883423,
+            "r": 0.982979416847229,
+            "b": 0.9275342226028442
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "90e04ac3-e2b1-4cb0-bdce-ae197eb0349e"
+    },
+    {
+      "text": "21",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.9065069556236267,
+            "t": 0.9401845335960388,
+            "r": 0.9278721213340759,
+            "b": 0.9684193730354309
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "c9c5b0b1-7883-4861-8f6a-ec4b9863165f"
+    }
+  ],
+  "extraction": null,
+  "extraction_metadata": null,
+  "start_page_idx": 0,
+  "end_page_idx": 0,
+  "doc_type": "image",
+  "result_path": null,
+  "errors": [],
+  "extraction_error": null,
+  "metadata": {
+    "parse_id": "v6q03lx9u56cesnoyodmhmipq",
+    "filename": "page_021.png",
+    "page_count": 1,
+    "processed_at": "2025-10-07T07:46:08.539494+00:00",
+    "processing_time_ms": 5569,
+    "pages_processed": 1,
+    "user_id": "jp03ndqeerfn",
+    "pages_rotation_angles": {
+      "0": 0.0
+    }
+  }
+}

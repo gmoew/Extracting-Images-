@@ -1,0 +1,161 @@
+{
+  "markdown": "# Case studies 4 - Malware - Extension <!-- text, from page 0 (l=0.039,t=0.027,r=0.509,b=0.090), with ID 34e7ebcf-7e2c-43be-97e6-0798591fb080 -->\n\nSummary : This image is a logo for a company named \"Icetea Software\", featuring a stylized red geometric symbol above the company name in two font weights.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • Central geometric symbol composed of interlocking red lines forming a stylized \"S\" shape within a diamond outline.\n  • Two small red diamond shapes flanking the central symbol horizontally.\n  • Company name \"Icetea Software\" written below the symbol; \"Icetea\" in a thin, light font, \"Software\" in bold black font.\n\nLayout & Placement :\n  • Symbol is centered above the text.\n  • Text is horizontally aligned, with \"Icetea\" and \"Software\" on the same line.\n  • Ample white space surrounds the logo elements.\n\nAnalysis :\n  • The logo uses red to convey energy and attention, while the geometric symbol suggests technology and connectivity.\n  • The contrast between the light and bold fonts emphasizes \"Software\" as the primary focus of the brand identity. <!-- figure, from page 0 (l=0.894,t=0.000,r=0.969,b=0.093), with ID d3d6a9c5-d136-4bb1-8a07-45b889802fa9 -->\n\n**Malware là viết tắt của “malicious software” (phần mềm độc hại):** Đây là một thuật ngữ bao trùm, chỉ bất kỳ chương trình hay đoạn mã nào được tạo ra với mục đích gây hại cho hệ thống máy tính, máy chủ, hoặc mạng máy tính. Mục tiêu của chúng rất đa dạng, từ đánh cắp dữ liệu, phá hoại hệ thống cho đến theo dõi người dùng. <!-- text, from page 0 (l=0.044,t=0.108,r=0.968,b=0.259), with ID 5eb6c97f-d513-452d-8939-11937d049b4d -->\n\nName\nVideo.3625943.mp4.exe <!-- text, from page 0 (l=0.068,t=0.339,r=0.302,b=0.477), with ID e6615b34-d922-4590-aa59-dc69029195d2 -->\n\n<table><thead><tr><th>Date modified</th><th>Type</th><th>Size</th></tr></thead><tbody><tr><td>12/18/2017 10:29 ...</td><td>Application</td><td>952 KB</td></tr></tbody></table> <!-- table, from page 0 (l=0.455,t=0.339,r=0.936,b=0.480), with ID 4894d20d-fd1c-4864-9bf1-170945f7c7be -->\n\nFunc akvzohddz()\n    While 1\n        If FileExists($zpcxxoddutz & \"\\\" & \"worker.exe\" AND FileExists($zpcxxoddutz & \"\\\" & \"config.json\") Then\n            If NOT ProcessExists(\"worker.exe\") Then\n                Run($zpcxxoddutz & \"\\\" & \"worker.exe\", NULL , @SW_HIDE)\n            EndIf\n        EndIf\n        Sleep(5000)\n    WEnd\nEndFunc <!-- text, from page 0 (l=0.077,t=0.578,r=0.910,b=0.855), with ID f4d4810c-fd52-411d-b9fd-29f3e6822c2a -->\n\nChạy chương trình “đào” tiền ảo Monero trên máy bị nhiễm <!-- text, from page 0 (l=0.080,t=0.875,r=0.595,b=0.927), with ID 661cb809-a7ec-41a2-a05a-a0105f61b693 -->\n\n13 <!-- marginalia, from page 0 (l=0.908,t=0.941,r=0.927,b=0.968), with ID d24d1d19-2d9f-41fb-96d2-ebe9a655cb37 -->",
+  "chunks": [
+    {
+      "text": "# Case studies 4 - Malware - Extension",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.03856264054775238,
+            "t": 0.026618532836437225,
+            "r": 0.5086650848388672,
+            "b": 0.08990105986595154
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "34e7ebcf-7e2c-43be-97e6-0798591fb080"
+    },
+    {
+      "text": "Summary : This image is a logo for a company named \"Icetea Software\", featuring a stylized red geometric symbol above the company name in two font weights.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • Central geometric symbol composed of interlocking red lines forming a stylized \"S\" shape within a diamond outline.\n  • Two small red diamond shapes flanking the central symbol horizontally.\n  • Company name \"Icetea Software\" written below the symbol; \"Icetea\" in a thin, light font, \"Software\" in bold black font.\n\nLayout & Placement :\n  • Symbol is centered above the text.\n  • Text is horizontally aligned, with \"Icetea\" and \"Software\" on the same line.\n  • Ample white space surrounds the logo elements.\n\nAnalysis :\n  • The logo uses red to convey energy and attention, while the geometric symbol suggests technology and connectivity.\n  • The contrast between the light and bold fonts emphasizes \"Software\" as the primary focus of the brand identity.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.8935399055480957,
+            "t": 0.00010739639401435852,
+            "r": 0.968555212020874,
+            "b": 0.09262296557426453
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "d3d6a9c5-d136-4bb1-8a07-45b889802fa9"
+    },
+    {
+      "text": "**Malware là viết tắt của “malicious software” (phần mềm độc hại):** Đây là một thuật ngữ bao trùm, chỉ bất kỳ chương trình hay đoạn mã nào được tạo ra với mục đích gây hại cho hệ thống máy tính, máy chủ, hoặc mạng máy tính. Mục tiêu của chúng rất đa dạng, từ đánh cắp dữ liệu, phá hoại hệ thống cho đến theo dõi người dùng.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.04361274838447571,
+            "t": 0.10767477005720139,
+            "r": 0.9676080942153931,
+            "b": 0.2592245936393738
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "5eb6c97f-d513-452d-8939-11937d049b4d"
+    },
+    {
+      "text": "Name\nVideo.3625943.mp4.exe",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.06816123425960541,
+            "t": 0.33857256174087524,
+            "r": 0.3023560047149658,
+            "b": 0.4772760272026062
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "e6615b34-d922-4590-aa59-dc69029195d2"
+    },
+    {
+      "text": "<table><thead><tr><th>Date modified</th><th>Type</th><th>Size</th></tr></thead><tbody><tr><td>12/18/2017 10:29 ...</td><td>Application</td><td>952 KB</td></tr></tbody></table>",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.45530059933662415,
+            "t": 0.339376837015152,
+            "r": 0.9360805749893188,
+            "b": 0.48023679852485657
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "table",
+      "chunk_id": "4894d20d-fd1c-4864-9bf1-170945f7c7be"
+    },
+    {
+      "text": "Func akvzohddz()\n    While 1\n        If FileExists($zpcxxoddutz & \"\\\" & \"worker.exe\" AND FileExists($zpcxxoddutz & \"\\\" & \"config.json\") Then\n            If NOT ProcessExists(\"worker.exe\") Then\n                Run($zpcxxoddutz & \"\\\" & \"worker.exe\", NULL , @SW_HIDE)\n            EndIf\n        EndIf\n        Sleep(5000)\n    WEnd\nEndFunc",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.07700684666633606,
+            "t": 0.578217089176178,
+            "r": 0.9095481634140015,
+            "b": 0.8547274470329285
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "f4d4810c-fd52-411d-b9fd-29f3e6822c2a"
+    },
+    {
+      "text": "Chạy chương trình “đào” tiền ảo Monero trên máy bị nhiễm",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.07992371916770935,
+            "t": 0.8745169639587402,
+            "r": 0.5952231884002686,
+            "b": 0.9273327589035034
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "661cb809-a7ec-41a2-a05a-a0105f61b693"
+    },
+    {
+      "text": "13",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.9076213240623474,
+            "t": 0.9411457180976868,
+            "r": 0.926632821559906,
+            "b": 0.9675309062004089
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "d24d1d19-2d9f-41fb-96d2-ebe9a655cb37"
+    }
+  ],
+  "extraction": null,
+  "extraction_metadata": null,
+  "start_page_idx": 0,
+  "end_page_idx": 0,
+  "doc_type": "image",
+  "result_path": null,
+  "errors": [],
+  "extraction_error": null,
+  "metadata": {
+    "parse_id": "o7h6sn4n3immm99wi81raar5i",
+    "filename": "page_013.png",
+    "page_count": 1,
+    "processed_at": "2025-10-07T07:39:32.086661+00:00",
+    "processing_time_ms": 6478,
+    "pages_processed": 1,
+    "user_id": "jp03ndqeerfn",
+    "pages_rotation_angles": {
+      "0": 0.0
+    }
+  }
+}

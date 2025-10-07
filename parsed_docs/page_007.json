@@ -1,0 +1,127 @@
+{
+  "markdown": "# Giới thiệu ISO 27001:2022 <!-- text, from page 0 (l=0.044,t=0.026,r=0.358,b=0.092), with ID 404f4ead-afbe-4a51-abe3-037d0c1ca0d5 -->\n\nSummary : This image displays the logo for Icetea Software, featuring a stylized geometric emblem and the company name in two font weights.\n\nlogo: Icetea Software\n\n  Logo Elements :\n    • Central geometric emblem composed of interlocking red lines forming a diamond shape.\n    • Two small red squares flanking the emblem horizontally.\n    • Text below the emblem: “Icetea Software”.\n    • “Icetea” in thin, light gray font; “Software” in bold, black font.\n\n  Dimensions & Placement :\n    • Emblem is centered above the text.\n    • Text is horizontally aligned, with “Icetea” and “Software” on the same line.\n\n  Colour Scheme :\n    • Red (emblem and squares), black (“Software”), light gray (“Icetea”).\n    • White background.\n\n  Analysis :\n    • The logo uses a modern, geometric design to convey a sense of technology and precision.\n    • The contrast between the thin and bold fonts highlights the word “Software”, emphasizing the company’s core business.\n    • The red colour may suggest energy or innovation, while the clean layout ensures legibility and brand recognition. <!-- figure, from page 0 (l=0.893,t=-0.000,r=0.970,b=0.096), with ID 8ae72637-99f6-4b05-a498-e139681a588f -->\n\nSummary : This image is a certification logo indicating compliance with the ISO 27001 standard for Information Security Management.\n\nlogo:  \nVisible Text & Elements :  \n  • Main text: “Information Security Management Certified” encircling the logo.  \n  • Central text: “ISO 27001” in large, bold font.  \n  • Background: Faint globe graphic behind the “ISO” text.  \n  • Colour scheme: Blue and grey, with blue circular borders and blue text.  \n  • Shape: Circular logo with two concentric rings.  \n  • No company name or tagline present.\n\nDimensions & Placement :  \n  • Circular design, suitable for placement on certificates, websites, or documentation.  \n  • Text is evenly spaced around the perimeter and center.\n\nAnalysis :  \n  • The logo visually communicates that the bearer is certified for ISO 27001, a globally recognised standard for information security management systems.  \n  • The use of blue and globe imagery suggests trustworthiness and international scope. <!-- figure, from page 0 (l=0.612,t=0.124,r=0.862,b=0.553), with ID b632cf43-483b-46d4-a18d-25a65237d363 -->\n\nSummary : The image visually asks the question \"ISO/IEC 27001 là gì?\" (What is ISO/IEC 27001?) using a blue arrow with text and a thinking emoji.\n\nillustration:\nMain Elements :\n  • A large blue arrow pointing right, containing the white text \"ISO/IEC 27001 là gì?\" in Vietnamese, which translates to \"What is ISO/IEC 27001?\"\n  • To the right of the arrow, a thinking face emoji with glasses, hand on chin, and raised eyebrow, suggesting curiosity or contemplation.\n\nScene Overview :\n  • The composition is simple, with the arrow and text on the left and the emoji on the right, both on a white background.\n  • The arrow and emoji are the only visual elements, with no additional icons, labels, or decorations.\n\nSpatial Relationships :\n  • The arrow points directly at the emoji, visually connecting the question to the act of thinking.\n  • The text is centered within the arrow, and the emoji is placed to the right, occupying a similar vertical space.\n\nAnalysis :\n  • The image is designed to prompt viewers to consider or inquire about the meaning of ISO/IEC 27001, using visual cues (arrow and thinking emoji) to reinforce the question and curiosity. <!-- figure, from page 0 (l=0.150,t=0.234,r=0.560,b=0.497), with ID 10670408-afc7-4b27-8913-a7334badfaa4 -->\n\nISO 27001:2022 là tiêu chuẩn quốc tế về hệ thống quản lý an toàn thông tin (ISMS - Information Security Management System) theo phiên bản mới nhất (phiên bản 2022) của tiêu chuẩn do Tổ chức Tiêu chuẩn hóa Quốc tế (ISO) và Ủy ban Kỹ thuật Điện Quốc tế (IEC) ban hành. <!-- text, from page 0 (l=0.044,t=0.618,r=0.947,b=0.829), with ID 71f991dc-6243-44b6-98e0-62be725e7bdd -->\n\n7 <!-- marginalia, from page 0 (l=0.913,t=0.940,r=0.928,b=0.968), with ID 390d1a85-c72f-4cf8-97f7-7e4428472a91 -->",
+  "chunks": [
+    {
+      "text": "# Giới thiệu ISO 27001:2022",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.0436536967754364,
+            "t": 0.026047229766845703,
+            "r": 0.3575390577316284,
+            "b": 0.0924205407500267
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "404f4ead-afbe-4a51-abe3-037d0c1ca0d5"
+    },
+    {
+      "text": "Summary : This image displays the logo for Icetea Software, featuring a stylized geometric emblem and the company name in two font weights.\n\nlogo: Icetea Software\n\n  Logo Elements :\n    • Central geometric emblem composed of interlocking red lines forming a diamond shape.\n    • Two small red squares flanking the emblem horizontally.\n    • Text below the emblem: “Icetea Software”.\n    • “Icetea” in thin, light gray font; “Software” in bold, black font.\n\n  Dimensions & Placement :\n    • Emblem is centered above the text.\n    • Text is horizontally aligned, with “Icetea” and “Software” on the same line.\n\n  Colour Scheme :\n    • Red (emblem and squares), black (“Software”), light gray (“Icetea”).\n    • White background.\n\n  Analysis :\n    • The logo uses a modern, geometric design to convey a sense of technology and precision.\n    • The contrast between the thin and bold fonts highlights the word “Software”, emphasizing the company’s core business.\n    • The red colour may suggest energy or innovation, while the clean layout ensures legibility and brand recognition.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.8927531242370605,
+            "t": -1.4640390872955322e-05,
+            "r": 0.9696865081787109,
+            "b": 0.09576091170310974
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "8ae72637-99f6-4b05-a498-e139681a588f"
+    },
+    {
+      "text": "Summary : This image is a certification logo indicating compliance with the ISO 27001 standard for Information Security Management.\n\nlogo:  \nVisible Text & Elements :  \n  • Main text: “Information Security Management Certified” encircling the logo.  \n  • Central text: “ISO 27001” in large, bold font.  \n  • Background: Faint globe graphic behind the “ISO” text.  \n  • Colour scheme: Blue and grey, with blue circular borders and blue text.  \n  • Shape: Circular logo with two concentric rings.  \n  • No company name or tagline present.\n\nDimensions & Placement :  \n  • Circular design, suitable for placement on certificates, websites, or documentation.  \n  • Text is evenly spaced around the perimeter and center.\n\nAnalysis :  \n  • The logo visually communicates that the bearer is certified for ISO 27001, a globally recognised standard for information security management systems.  \n  • The use of blue and globe imagery suggests trustworthiness and international scope.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.6119504570960999,
+            "t": 0.12380959093570709,
+            "r": 0.8618124127388,
+            "b": 0.5532926917076111
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "b632cf43-483b-46d4-a18d-25a65237d363"
+    },
+    {
+      "text": "Summary : The image visually asks the question \"ISO/IEC 27001 là gì?\" (What is ISO/IEC 27001?) using a blue arrow with text and a thinking emoji.\n\nillustration:\nMain Elements :\n  • A large blue arrow pointing right, containing the white text \"ISO/IEC 27001 là gì?\" in Vietnamese, which translates to \"What is ISO/IEC 27001?\"\n  • To the right of the arrow, a thinking face emoji with glasses, hand on chin, and raised eyebrow, suggesting curiosity or contemplation.\n\nScene Overview :\n  • The composition is simple, with the arrow and text on the left and the emoji on the right, both on a white background.\n  • The arrow and emoji are the only visual elements, with no additional icons, labels, or decorations.\n\nSpatial Relationships :\n  • The arrow points directly at the emoji, visually connecting the question to the act of thinking.\n  • The text is centered within the arrow, and the emoji is placed to the right, occupying a similar vertical space.\n\nAnalysis :\n  • The image is designed to prompt viewers to consider or inquire about the meaning of ISO/IEC 27001, using visual cues (arrow and thinking emoji) to reinforce the question and curiosity.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.14979176223278046,
+            "t": 0.2342730164527893,
+            "r": 0.5598728656768799,
+            "b": 0.49657881259918213
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "10670408-afc7-4b27-8913-a7334badfaa4"
+    },
+    {
+      "text": "ISO 27001:2022 là tiêu chuẩn quốc tế về hệ thống quản lý an toàn thông tin (ISMS - Information Security Management System) theo phiên bản mới nhất (phiên bản 2022) của tiêu chuẩn do Tổ chức Tiêu chuẩn hóa Quốc tế (ISO) và Ủy ban Kỹ thuật Điện Quốc tế (IEC) ban hành.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.04376262426376343,
+            "t": 0.6183215975761414,
+            "r": 0.9470001459121704,
+            "b": 0.828561007976532
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "71f991dc-6243-44b6-98e0-62be725e7bdd"
+    },
+    {
+      "text": "7",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.9125794172286987,
+            "t": 0.9395922422409058,
+            "r": 0.9281896352767944,
+            "b": 0.9675213098526001
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "390d1a85-c72f-4cf8-97f7-7e4428472a91"
+    }
+  ],
+  "extraction": null,
+  "extraction_metadata": null,
+  "start_page_idx": 0,
+  "end_page_idx": 0,
+  "doc_type": "image",
+  "result_path": null,
+  "errors": [],
+  "extraction_error": null,
+  "metadata": {
+    "parse_id": "ofpco1v2qt97krm7zv31zchwa",
+    "filename": "page_007.png",
+    "page_count": 1,
+    "processed_at": "2025-10-07T07:45:39.178932+00:00",
+    "processing_time_ms": 4973,
+    "pages_processed": 1,
+    "user_id": "jp03ndqeerfn",
+    "pages_rotation_angles": {
+      "0": 0.0
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "markdown": "4. QUY ĐỊNH VỀ SỬ DỤNG VÀ TRUY CẬP MẠNG NỘI BỘ <!-- text, from page 0 (l=0.033,t=0.032,r=0.545,b=0.090), with ID 71c712e5-5f8c-4f20-ba67-e3da4ff8463b -->\n\nSummary : This image displays the logo for Icetea Software, featuring a stylized red geometric emblem above the company name.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • Central geometric emblem composed of interlocking red lines forming a diamond-like shape.\n  • Two smaller red diamond shapes flanking the central emblem horizontally.\n  • Company name “Icetea Software” written below the emblem.\n  • “Icetea” in light gray, thin sans-serif font; “Software” in bold black sans-serif font.\n\nDimensions & Placement :\n  • Emblem is centered above the text.\n  • Text is horizontally aligned, with “Icetea” and “Software” on the same line.\n\nAnalysis :\n  • The logo uses red for the emblem to convey energy and attention, while the contrasting fonts and colours in the company name highlight “Software” for emphasis. <!-- figure, from page 0 (l=0.895,t=0.000,r=0.968,b=0.094), with ID 6a7363f4-f2dd-4c71-a289-c685e4ed4ace -->\n\nSummary : This illustration shows a stylized login interface with password and progress fields, alongside a fingerprint and hand, representing biometric authentication.\n\nillustration:\nScene Overview :\n  • Main subject is a login interface with two white rectangular fields on a peach-orange gradient background.\n  • The top field contains a series of dark dots, indicating a password entry.\n  • The lower field contains a dark horizontal bar, suggesting a progress or input field.\n  • On the right side, a stylized hand with two fingers extended is positioned near a white fingerprint icon, symbolizing fingerprint scanning for authentication.\n  • The colour palette consists of peach-orange, white, and dark purple accents.\n\nTechnical Details :\n  • No scale bar, magnification, or scientific modality present.\n  • No visible text or numeric values in the fields.\n  • UI elements are abstract and do not display actual credentials.\n\nSpatial Relationships :\n  • Login fields are on the left half of the image.\n  • Hand and fingerprint icon are on the right, with the hand reaching toward the fingerprint.\n  • Elements are arranged horizontally, with clear separation between input fields and biometric icon.\n\nAnalysis :\n  • The illustration visually communicates the concept of multi-factor authentication, combining password entry and biometric (fingerprint) verification.\n  • The design suggests a modern, user-friendly approach to secure login processes. <!-- figure, from page 0 (l=0.187,t=0.095,r=0.643,b=0.292), with ID 5dca2b9a-ff11-4c16-8b7f-3c19e94022bd -->\n\n## Quản lý truy cập người dùng <!-- text, from page 0 (l=0.013,t=0.332,r=0.261,b=0.393), with ID 204e331c-8541-4252-aa49-ae3bdd236fd8 -->\n\nlogo: [icon of person]\n\nĐăng ký sử dụng\n\nCấp phát, thay đổi và huỷ bỏ đăng ký truy cập trên tất cả các hệ thống và dịch vụ thông tin.\n\nlogo: [icon of fingerprint]\n\nĐịnh danh và xác thực\n\nMỗi người dùng chỉ được có một định danh duy nhất và phải có biện pháp xác thực. <!-- text, from page 0 (l=0.011,t=0.412,r=0.752,b=0.695), with ID b0a0a4a6-5720-4f34-8ba3-e149ca69587a -->\n\nQuản lý đặc quyền  \nGiới hạn và kiểm soát việc cấp phát và sử dụng các đặc quyền bằng văn bản hoặc biện pháp kỹ thuật. <!-- text, from page 0 (l=0.013,t=0.711,r=0.825,b=0.855), with ID 408003ba-af0b-4fdd-a5e7-eaf945431f6b -->\n\nlogo: padlock icon\n\nQuản lý mật khẩu và tài khoản\n\nQuản lý, sử dụng mật khẩu và tài khoản đảm bảo an toàn theo Quy trình quản lý truy cập <!-- text, from page 0 (l=0.013,t=0.861,r=0.767,b=0.994), with ID 04318b40-c769-442b-b0fd-f91a55a9f68d -->\n\n37 <!-- marginalia, from page 0 (l=0.907,t=0.938,r=0.928,b=0.972), with ID 725da113-e138-4eb1-bbb1-63586dbf90ed -->",
+  "chunks": [
+    {
+      "text": "4. QUY ĐỊNH VỀ SỬ DỤNG VÀ TRUY CẬP MẠNG NỘI BỘ",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.03259721398353577,
+            "t": 0.03169965371489525,
+            "r": 0.5451034307479858,
+            "b": 0.0904495120048523
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "71c712e5-5f8c-4f20-ba67-e3da4ff8463b"
+    },
+    {
+      "text": "Summary : This image displays the logo for Icetea Software, featuring a stylized red geometric emblem above the company name.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • Central geometric emblem composed of interlocking red lines forming a diamond-like shape.\n  • Two smaller red diamond shapes flanking the central emblem horizontally.\n  • Company name “Icetea Software” written below the emblem.\n  • “Icetea” in light gray, thin sans-serif font; “Software” in bold black sans-serif font.\n\nDimensions & Placement :\n  • Emblem is centered above the text.\n  • Text is horizontally aligned, with “Icetea” and “Software” on the same line.\n\nAnalysis :\n  • The logo uses red for the emblem to convey energy and attention, while the contrasting fonts and colours in the company name highlight “Software” for emphasis.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.8947697281837463,
+            "t": 0.00016732513904571533,
+            "r": 0.968197762966156,
+            "b": 0.09398258477449417
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "6a7363f4-f2dd-4c71-a289-c685e4ed4ace"
+    },
+    {
+      "text": "Summary : This illustration shows a stylized login interface with password and progress fields, alongside a fingerprint and hand, representing biometric authentication.\n\nillustration:\nScene Overview :\n  • Main subject is a login interface with two white rectangular fields on a peach-orange gradient background.\n  • The top field contains a series of dark dots, indicating a password entry.\n  • The lower field contains a dark horizontal bar, suggesting a progress or input field.\n  • On the right side, a stylized hand with two fingers extended is positioned near a white fingerprint icon, symbolizing fingerprint scanning for authentication.\n  • The colour palette consists of peach-orange, white, and dark purple accents.\n\nTechnical Details :\n  • No scale bar, magnification, or scientific modality present.\n  • No visible text or numeric values in the fields.\n  • UI elements are abstract and do not display actual credentials.\n\nSpatial Relationships :\n  • Login fields are on the left half of the image.\n  • Hand and fingerprint icon are on the right, with the hand reaching toward the fingerprint.\n  • Elements are arranged horizontally, with clear separation between input fields and biometric icon.\n\nAnalysis :\n  • The illustration visually communicates the concept of multi-factor authentication, combining password entry and biometric (fingerprint) verification.\n  • The design suggests a modern, user-friendly approach to secure login processes.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.18653999269008636,
+            "t": 0.09549365937709808,
+            "r": 0.6426520943641663,
+            "b": 0.2919212579727173
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "5dca2b9a-ff11-4c16-8b7f-3c19e94022bd"
+    },
+    {
+      "text": "## Quản lý truy cập người dùng",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.012757532298564911,
+            "t": 0.33215320110321045,
+            "r": 0.26146775484085083,
+            "b": 0.3927973508834839
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "204e331c-8541-4252-aa49-ae3bdd236fd8"
+    },
+    {
+      "text": "logo: [icon of person]\n\nĐăng ký sử dụng\n\nCấp phát, thay đổi và huỷ bỏ đăng ký truy cập trên tất cả các hệ thống và dịch vụ thông tin.\n\nlogo: [icon of fingerprint]\n\nĐịnh danh và xác thực\n\nMỗi người dùng chỉ được có một định danh duy nhất và phải có biện pháp xác thực.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.0113602876663208,
+            "t": 0.41211676597595215,
+            "r": 0.7515508532524109,
+            "b": 0.6951175928115845
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "b0a0a4a6-5720-4f34-8ba3-e149ca69587a"
+    },
+    {
+      "text": "Quản lý đặc quyền  \nGiới hạn và kiểm soát việc cấp phát và sử dụng các đặc quyền bằng văn bản hoặc biện pháp kỹ thuật.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.013121187686920166,
+            "t": 0.7107560634613037,
+            "r": 0.825083315372467,
+            "b": 0.855108380317688
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "408003ba-af0b-4fdd-a5e7-eaf945431f6b"
+    },
+    {
+      "text": "logo: padlock icon\n\nQuản lý mật khẩu và tài khoản\n\nQuản lý, sử dụng mật khẩu và tài khoản đảm bảo an toàn theo Quy trình quản lý truy cập",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.013369321823120117,
+            "t": 0.8608446717262268,
+            "r": 0.7668541669845581,
+            "b": 0.9942103028297424
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "04318b40-c769-442b-b0fd-f91a55a9f68d"
+    },
+    {
+      "text": "37",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.9067149758338928,
+            "t": 0.9375158548355103,
+            "r": 0.9278184771537781,
+            "b": 0.9715172052383423
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "725da113-e138-4eb1-bbb1-63586dbf90ed"
+    }
+  ],
+  "extraction": null,
+  "extraction_metadata": null,
+  "start_page_idx": 0,
+  "end_page_idx": 0,
+  "doc_type": "image",
+  "result_path": null,
+  "errors": [],
+  "extraction_error": null,
+  "metadata": {
+    "parse_id": "qdlxvie8m12v2gepscwlegwyb",
+    "filename": "page_037.png",
+    "page_count": 1,
+    "processed_at": "2025-10-07T07:42:16.709003+00:00",
+    "processing_time_ms": 6905,
+    "pages_processed": 1,
+    "user_id": "jp03ndqeerfn",
+    "pages_rotation_angles": {
+      "0": 0.0
+    }
+  }
+}

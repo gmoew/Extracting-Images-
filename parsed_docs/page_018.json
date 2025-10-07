@@ -1,0 +1,144 @@
+{
+  "markdown": "## LỢI ÍCH VÀ LÝ DO TUÂN THỦ ATTT <!-- text, from page 0 (l=0.036,t=0.018,r=0.379,b=0.079), with ID 2a640cab-a157-4598-97e1-722c6ded5268 -->\n\nSummary : This image displays the logo for Icetea Software, featuring a stylized red geometric emblem above the company name.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • Central geometric emblem composed of interlocking red lines forming a symmetrical, abstract shape resembling the letters \"I\" and \"S\".\n  • Two small red diamond shapes flanking the central emblem horizontally.\n  • Company name \"Icetea Software\" written below the emblem; \"Icetea\" in light gray, \"Software\" in bold black.\n\nTypography & Colour :\n  • \"Icetea\" uses a thin, sans-serif font in light gray.\n  • \"Software\" uses a bold, sans-serif font in black.\n  • Emblem and diamonds are rendered in solid red (#D32F2F).\n\nLayout & Dimensions :\n  • Emblem and diamonds are centered above the company name.\n  • Text is horizontally aligned, with \"Icetea\" and \"Software\" on the same line.\n  • Ample white space surrounds the logo elements.\n\nAnalysis :\n  • The logo combines modern geometric design with clear, contrasting typography to convey a professional and technology-focused brand identity.\n  • The use of red suggests energy and innovation, while the bold \"Software\" emphasizes the company's core business. <!-- figure, from page 0 (l=0.893,t=0.000,r=0.969,b=0.093), with ID f6a379fe-bb49-47ca-81e3-730520f7c572 -->\n\n- inline micro-figure: padlock emoji\n- inline micro-figure: lightbulb emoji\n**1. Bảo vệ tài sản và giảm rủi ro:** Ngăn chặn rò rỉ dữ liệu, bảo vệ tài sản và phần mềm khỏi truy cập trái phép, phá hoại\n\n- • Dữ liệu khách hàng, hợp đồng, mã nguồn, tài liệu tài chính là những tài sản cực kỳ giá trị.\n- • Nếu bị rò rỉ hoặc mất mát có thể gây tổn thất nghiêm trọng về tài chính và pháp lý. <!-- text, from page 0 (l=0.024,t=0.101,r=0.968,b=0.287), with ID c94875e9-8846-400b-86e6-c61bdddc6597 -->\n\n- 🤝 2. Tạo niềm tin với khách hàng và đối tác nâng cao nhận thức nội bộ\n  - Doanh nghiệp có hệ thống bảo mật tốt thường được đánh giá cao về độ uy tín và mức độ an toàn.\n  - Có lợi thế hơn khi đàm phán hợp đồng, nhất là trong dự án phần mềm, tài chính, chăm sóc sức khỏe, ngân hàng... <!-- text, from page 0 (l=0.021,t=0.295,r=0.912,b=0.477), with ID 642118c0-2e27-4a87-a6a8-cbea282a82aa -->\n\n📉 3. Hỗ trợ chuyển đổi số và phát triển bền vững: Giúp Công ty phát triển bền vững trong môi trường số nhiều rủi ro.  \nChuyển đổi số làm tăng mức độ phụ thuộc vào công nghệ (Cloud, IoT, AI, SaaS…). Nếu không có ATTT, hệ thống dễ bị tấn công mạng, mất dữ liệu, rò rỉ thông tin. <!-- text, from page 0 (l=0.023,t=0.487,r=0.969,b=0.668), with ID 9b92a4bc-b262-4960-b682-002a1ce2c962 -->\n\n- ⚖️ 4. Tuân thủ pháp luật và các tiêu chuẩn: Tránh các rủi ro pháp lý.\n- Tuân thủ hợp đồng với khách hàng có yêu cầu bảo mật.\n- • Nhiều Khách hàng yêu cầu Nhà cung ứng sản phẩm/ dịch vụ bắt buộc tuân thủ các quy định ATTT như:\n  - ✓ Luật An ninh mạng, Luật bảo vệ dữ liệu cá nhân (PDPA), Nghị định 13/2023/NĐ-CP ...\n  - ✓ Các chuẩn quốc tế: ISO/IEC 27001,... <!-- text, from page 0 (l=0.018,t=0.684,r=0.844,b=0.977), with ID 338e98cd-e0c9-4669-ae56-2f4776bcca9a -->\n\n18 <!-- marginalia, from page 0 (l=0.907,t=0.940,r=0.928,b=0.969), with ID 3b74f5c4-b39b-43da-9021-112d3c497746 -->",
+  "chunks": [
+    {
+      "text": "## LỢI ÍCH VÀ LÝ DO TUÂN THỦ ATTT",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.03638681769371033,
+            "t": 0.018098393455147743,
+            "r": 0.37934884428977966,
+            "b": 0.0786343440413475
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "2a640cab-a157-4598-97e1-722c6ded5268"
+    },
+    {
+      "text": "Summary : This image displays the logo for Icetea Software, featuring a stylized red geometric emblem above the company name.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • Central geometric emblem composed of interlocking red lines forming a symmetrical, abstract shape resembling the letters \"I\" and \"S\".\n  • Two small red diamond shapes flanking the central emblem horizontally.\n  • Company name \"Icetea Software\" written below the emblem; \"Icetea\" in light gray, \"Software\" in bold black.\n\nTypography & Colour :\n  • \"Icetea\" uses a thin, sans-serif font in light gray.\n  • \"Software\" uses a bold, sans-serif font in black.\n  • Emblem and diamonds are rendered in solid red (#D32F2F).\n\nLayout & Dimensions :\n  • Emblem and diamonds are centered above the company name.\n  • Text is horizontally aligned, with \"Icetea\" and \"Software\" on the same line.\n  • Ample white space surrounds the logo elements.\n\nAnalysis :\n  • The logo combines modern geometric design with clear, contrasting typography to convey a professional and technology-focused brand identity.\n  • The use of red suggests energy and innovation, while the bold \"Software\" emphasizes the company's core business.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.89321368932724,
+            "t": 8.886680006980896e-05,
+            "r": 0.9689115881919861,
+            "b": 0.09319174289703369
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "f6a379fe-bb49-47ca-81e3-730520f7c572"
+    },
+    {
+      "text": "- inline micro-figure: padlock emoji\n- inline micro-figure: lightbulb emoji\n**1. Bảo vệ tài sản và giảm rủi ro:** Ngăn chặn rò rỉ dữ liệu, bảo vệ tài sản và phần mềm khỏi truy cập trái phép, phá hoại\n\n- • Dữ liệu khách hàng, hợp đồng, mã nguồn, tài liệu tài chính là những tài sản cực kỳ giá trị.\n- • Nếu bị rò rỉ hoặc mất mát có thể gây tổn thất nghiêm trọng về tài chính và pháp lý.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.0236588716506958,
+            "t": 0.10086585581302643,
+            "r": 0.9680737257003784,
+            "b": 0.2870188355445862
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "c94875e9-8846-400b-86e6-c61bdddc6597"
+    },
+    {
+      "text": "- 🤝 2. Tạo niềm tin với khách hàng và đối tác nâng cao nhận thức nội bộ\n  - Doanh nghiệp có hệ thống bảo mật tốt thường được đánh giá cao về độ uy tín và mức độ an toàn.\n  - Có lợi thế hơn khi đàm phán hợp đồng, nhất là trong dự án phần mềm, tài chính, chăm sóc sức khỏe, ngân hàng...",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.02125135064125061,
+            "t": 0.29514625668525696,
+            "r": 0.9119729995727539,
+            "b": 0.4770747125148773
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "642118c0-2e27-4a87-a6a8-cbea282a82aa"
+    },
+    {
+      "text": "📉 3. Hỗ trợ chuyển đổi số và phát triển bền vững: Giúp Công ty phát triển bền vững trong môi trường số nhiều rủi ro.  \nChuyển đổi số làm tăng mức độ phụ thuộc vào công nghệ (Cloud, IoT, AI, SaaS…). Nếu không có ATTT, hệ thống dễ bị tấn công mạng, mất dữ liệu, rò rỉ thông tin.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.02296757698059082,
+            "t": 0.4870811700820923,
+            "r": 0.9686177968978882,
+            "b": 0.6683712005615234
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "9b92a4bc-b262-4960-b682-002a1ce2c962"
+    },
+    {
+      "text": "- ⚖️ 4. Tuân thủ pháp luật và các tiêu chuẩn: Tránh các rủi ro pháp lý.\n- Tuân thủ hợp đồng với khách hàng có yêu cầu bảo mật.\n- • Nhiều Khách hàng yêu cầu Nhà cung ứng sản phẩm/ dịch vụ bắt buộc tuân thủ các quy định ATTT như:\n  - ✓ Luật An ninh mạng, Luật bảo vệ dữ liệu cá nhân (PDPA), Nghị định 13/2023/NĐ-CP ...\n  - ✓ Các chuẩn quốc tế: ISO/IEC 27001,...",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.01828119158744812,
+            "t": 0.684160590171814,
+            "r": 0.844102144241333,
+            "b": 0.9771785736083984
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "338e98cd-e0c9-4669-ae56-2f4776bcca9a"
+    },
+    {
+      "text": "18",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.907038688659668,
+            "t": 0.939690351486206,
+            "r": 0.9280062913894653,
+            "b": 0.9688043594360352
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "3b74f5c4-b39b-43da-9021-112d3c497746"
+    }
+  ],
+  "extraction": null,
+  "extraction_metadata": null,
+  "start_page_idx": 0,
+  "end_page_idx": 0,
+  "doc_type": "image",
+  "result_path": null,
+  "errors": [],
+  "extraction_error": null,
+  "metadata": {
+    "parse_id": "pjorrea0n0g58nsbzhqj87ky5",
+    "filename": "page_018.png",
+    "page_count": 1,
+    "processed_at": "2025-10-07T07:42:26.230695+00:00",
+    "processing_time_ms": 4651,
+    "pages_processed": 1,
+    "user_id": "jp03ndqeerfn",
+    "pages_rotation_angles": {
+      "0": 0.0
+    }
+  }
+}

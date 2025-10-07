@@ -1,0 +1,110 @@
+{
+  "markdown": "Summary : This image displays the logo for Icetea Software, featuring a stylized red geometric emblem above the company name.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • Central geometric emblem composed of interlocking red lines forming a diamond-like shape.\n  • Two smaller red diamond shapes flanking the central emblem horizontally.\n  • Company name “Icetea Software” written below the emblem.\n  • “Icetea” in thin, light gray font; “Software” in bold, black font.\n\nLayout & Dimensions :\n  • Emblem is centered above the text.\n  • Text is horizontally aligned, with “Icetea” and “Software” on the same line.\n  • White background with no additional graphical elements.\n\nAnalysis :\n  • The logo uses a strong red geometric motif to convey a modern and technical brand identity.\n  • The contrast between the light “Icetea” and bold “Software” emphasizes the software aspect of the company name. <!-- figure, from page 0 (l=0.894,t=0.000,r=0.969,b=0.094), with ID 56c05470-9370-4308-b6f6-cc9b40c4bc55 -->\n\nSummary : This illustration presents the concept of establishing information security objectives according to the ISO/IEC 27001 standard, featuring a central padlock icon surrounded by hand-drawn representations of computers, servers, mobile devices, and communication symbols.\n\nillustration:\nScene Overview :\n  • Main subject is a large blue padlock icon in the center, symbolizing information security.\n  • The background contains hand-drawn blue icons of laptops, desktop computers, servers, mobile devices, envelopes (email), and a Wi-Fi symbol.\n  • A human hand holding a pen is drawing connection lines from the padlock to surrounding icons, suggesting the integration of security across devices.\n  • The text \"THIẾT LẬP MỤC TIÊU AN TOÀN THÔNG TIN\" (Establishing Information Security Objectives) is prominently displayed above the padlock.\n  • The ISO/IEC 27001 label is shown on the left, indicating the international standard for information security management.\n\nTechnical Details :\n  • No scale bar or magnification; this is a conceptual illustration.\n  • Colour palette is primarily blue and white, with black text.\n  • All icons are simple line drawings, giving a schematic and approachable feel.\n\nSpatial Relationships :\n  • The padlock is centrally placed, with icons radiating outward and connected by lines, visually representing the spread of security measures.\n  • The hand and pen are on the right, actively drawing, which adds a dynamic element to the composition.\n\nAnalysis :\n  • The illustration visually communicates the idea of implementing comprehensive information security objectives across various digital devices and platforms, in alignment with ISO/IEC 27001 standards. The central padlock and radiating connections reinforce the concept of unified, system-wide protection. <!-- figure, from page 0 (l=0.104,t=0.145,r=0.566,b=0.582), with ID 10989701-59f0-48bd-b722-905bee7f339e -->\n\nSummary : This is a digital illustration depicting a young man holding a document with a shield emblem, surrounded by symbols of law, books, and search, suggesting themes of legal protection, justice, and research.\n\nillustration:\nScene Overview :\n  • Main subject is a smiling young man with short dark hair, wearing a yellow shirt and blue pants.\n  • He stands centrally, holding up a white document featuring a blue shield icon.\n  • The background is light blue with abstract shapes and icons, including gears, checkmarks, and search symbols.\n  • The colour palette is dominated by blue, yellow, pink, and white tones, creating a modern and friendly atmosphere.\n\nTechnical Details :\n  • No scale bar or magnification; this is a flat vector-style illustration.\n  • On-image UI elements include a gear icon (pink), a checkmark (blue), a magnifying glass (blue), and a balance scale (blue).\n  • Three stacks of books are present: two on the right (red, blue, yellow) and one on the left (red, blue).\n  • The balance scale sits atop the left stack of books, symbolising justice.\n\nSpatial Relationships :\n  • The man is in the foreground, centrally placed.\n  • Books and scales are at the bottom, anchoring the composition.\n  • Icons and abstract shapes are distributed in the background, providing context without cluttering the main subject.\n  • The document is held in the man's right hand, slightly raised, drawing attention to the shield emblem.\n\nAnalysis :\n  • The illustration visually communicates concepts of legal protection, justice, and research.\n  • The balance scale and books reinforce the theme of law and education.\n  • The shield on the document suggests security or certification.\n  • The overall composition is balanced and inviting, suitable for educational or legal-themed content. <!-- figure, from page 0 (l=0.619,t=0.197,r=0.935,b=0.751), with ID 642a1434-03e9-4e18-a6b3-015fad711b6d -->\n\n2.  MỤC TIÊU VÀ LỢI ÍCH CỦA ATTT <!-- text, from page 0 (l=0.037,t=0.770,r=0.708,b=0.869), with ID ec8f7ef6-282b-44b3-8631-af63ae235379 -->\n\n8 <!-- marginalia, from page 0 (l=0.913,t=0.953,r=0.927,b=0.979), with ID 401f7582-c850-427e-999a-05b092ad02ed -->",
+  "chunks": [
+    {
+      "text": "Summary : This image displays the logo for Icetea Software, featuring a stylized red geometric emblem above the company name.\n\nlogo: Icetea Software\n\nLogo Elements :\n  • Central geometric emblem composed of interlocking red lines forming a diamond-like shape.\n  • Two smaller red diamond shapes flanking the central emblem horizontally.\n  • Company name “Icetea Software” written below the emblem.\n  • “Icetea” in thin, light gray font; “Software” in bold, black font.\n\nLayout & Dimensions :\n  • Emblem is centered above the text.\n  • Text is horizontally aligned, with “Icetea” and “Software” on the same line.\n  • White background with no additional graphical elements.\n\nAnalysis :\n  • The logo uses a strong red geometric motif to convey a modern and technical brand identity.\n  • The contrast between the light “Icetea” and bold “Software” emphasizes the software aspect of the company name.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.8937003016471863,
+            "t": 0.0001572631299495697,
+            "r": 0.9686831831932068,
+            "b": 0.09352988004684448
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "56c05470-9370-4308-b6f6-cc9b40c4bc55"
+    },
+    {
+      "text": "Summary : This illustration presents the concept of establishing information security objectives according to the ISO/IEC 27001 standard, featuring a central padlock icon surrounded by hand-drawn representations of computers, servers, mobile devices, and communication symbols.\n\nillustration:\nScene Overview :\n  • Main subject is a large blue padlock icon in the center, symbolizing information security.\n  • The background contains hand-drawn blue icons of laptops, desktop computers, servers, mobile devices, envelopes (email), and a Wi-Fi symbol.\n  • A human hand holding a pen is drawing connection lines from the padlock to surrounding icons, suggesting the integration of security across devices.\n  • The text \"THIẾT LẬP MỤC TIÊU AN TOÀN THÔNG TIN\" (Establishing Information Security Objectives) is prominently displayed above the padlock.\n  • The ISO/IEC 27001 label is shown on the left, indicating the international standard for information security management.\n\nTechnical Details :\n  • No scale bar or magnification; this is a conceptual illustration.\n  • Colour palette is primarily blue and white, with black text.\n  • All icons are simple line drawings, giving a schematic and approachable feel.\n\nSpatial Relationships :\n  • The padlock is centrally placed, with icons radiating outward and connected by lines, visually representing the spread of security measures.\n  • The hand and pen are on the right, actively drawing, which adds a dynamic element to the composition.\n\nAnalysis :\n  • The illustration visually communicates the idea of implementing comprehensive information security objectives across various digital devices and platforms, in alignment with ISO/IEC 27001 standards. The central padlock and radiating connections reinforce the concept of unified, system-wide protection.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.10442586243152618,
+            "t": 0.1445074826478958,
+            "r": 0.5662967562675476,
+            "b": 0.5815231800079346
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "10989701-59f0-48bd-b722-905bee7f339e"
+    },
+    {
+      "text": "Summary : This is a digital illustration depicting a young man holding a document with a shield emblem, surrounded by symbols of law, books, and search, suggesting themes of legal protection, justice, and research.\n\nillustration:\nScene Overview :\n  • Main subject is a smiling young man with short dark hair, wearing a yellow shirt and blue pants.\n  • He stands centrally, holding up a white document featuring a blue shield icon.\n  • The background is light blue with abstract shapes and icons, including gears, checkmarks, and search symbols.\n  • The colour palette is dominated by blue, yellow, pink, and white tones, creating a modern and friendly atmosphere.\n\nTechnical Details :\n  • No scale bar or magnification; this is a flat vector-style illustration.\n  • On-image UI elements include a gear icon (pink), a checkmark (blue), a magnifying glass (blue), and a balance scale (blue).\n  • Three stacks of books are present: two on the right (red, blue, yellow) and one on the left (red, blue).\n  • The balance scale sits atop the left stack of books, symbolising justice.\n\nSpatial Relationships :\n  • The man is in the foreground, centrally placed.\n  • Books and scales are at the bottom, anchoring the composition.\n  • Icons and abstract shapes are distributed in the background, providing context without cluttering the main subject.\n  • The document is held in the man's right hand, slightly raised, drawing attention to the shield emblem.\n\nAnalysis :\n  • The illustration visually communicates concepts of legal protection, justice, and research.\n  • The balance scale and books reinforce the theme of law and education.\n  • The shield on the document suggests security or certification.\n  • The overall composition is balanced and inviting, suitable for educational or legal-themed content.",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.6185100674629211,
+            "t": 0.197445809841156,
+            "r": 0.934726893901825,
+            "b": 0.7514224052429199
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "figure",
+      "chunk_id": "642a1434-03e9-4e18-a6b3-015fad711b6d"
+    },
+    {
+      "text": "2.  MỤC TIÊU VÀ LỢI ÍCH CỦA ATTT",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.036741673946380615,
+            "t": 0.7704023718833923,
+            "r": 0.7079254388809204,
+            "b": 0.8687371611595154
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "text",
+      "chunk_id": "ec8f7ef6-282b-44b3-8631-af63ae235379"
+    },
+    {
+      "text": "8",
+      "grounding": [
+        {
+          "page": 0,
+          "box": {
+            "l": 0.9128401279449463,
+            "t": 0.9525867104530334,
+            "r": 0.9273015260696411,
+            "b": 0.9790071845054626
+          },
+          "image_path": null
+        }
+      ],
+      "chunk_type": "marginalia",
+      "chunk_id": "401f7582-c850-427e-999a-05b092ad02ed"
+    }
+  ],
+  "extraction": null,
+  "extraction_metadata": null,
+  "start_page_idx": 0,
+  "end_page_idx": 0,
+  "doc_type": "image",
+  "result_path": null,
+  "errors": [],
+  "extraction_error": null,
+  "metadata": {
+    "parse_id": "r60xhn4lbd2d1h5z0ze36zecm",
+    "filename": "page_008.png",
+    "page_count": 1,
+    "processed_at": "2025-10-07T07:45:18.176050+00:00",
+    "processing_time_ms": 7477,
+    "pages_processed": 1,
+    "user_id": "jp03ndqeerfn",
+    "pages_rotation_angles": {
+      "0": 0.0
+    }
+  }
+}
